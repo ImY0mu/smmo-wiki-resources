@@ -12,10 +12,8 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Character
-![Skills](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/DKC4LgMAyoUlDmo99LJOVbtUZsezIi-metad29vZGN1dHRpbmcucG5n-.png) [Skills](/wiki/character/skills?same_window=true)\
-![Classes](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/classes/forsaken.png) [Classes](/wiki/character/classes?same_window=true)\
+![Jobs](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/DKC4LgMAyoUlDmo99LJOVbtUZsezIi-metad29vZGN1dHRpbmcucG5n-.png) [Skills](/wiki/character/skills?same_window=true)\
 ![Stats](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/stats/strength.png) [Stats](/wiki/character/stats?same_window=true)\
-![Effects](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/mqplcNi12qglIBOu2FPOXLRtX99VgK-metabW9kZXJhdGUtZXhwMi5wbmc=-.png) [Effects](/wiki/character/effects?same_window=true)\
 ![Membership](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/membership.png) [Membership](/wiki/character/membership?same_window=true)
 
 </div>
@@ -31,19 +29,15 @@ Welcome to future SimpleMMO Wiki.
 
 #### Lore
 ![The World](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [The World](/wiki/lore/the-world?same_window=true)\
-![Notable Characters](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/ZFIbaxVCwGZQpimXrC31ys6KdZwRzl-metaQ2VsZXN0cmlhLnBuZw==-.png) [Notable Characters](/wiki/lore/notable-characters?same_window=true)\
-![Solaris Isle](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20,fit=cover/global/world-map.png) [Solaris Isle](/wiki/lore/solaris-isle?same_window=true)\
-![Civilizations](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Civilizations](/wiki/lore/civilizations?same_window=true)
+![Notable Characters](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/ZFIbaxVCwGZQpimXrC31ys6KdZwRzl-metaQ2VsZXN0cmlhLnBuZw==-.png) [Notable Characters](/wiki/lore/notable-characters?same_window=true)
 
 </div>
 <div class="border-t border-neutral-800">
 
-#### Items and Pets
-![Item Database](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/1eJxBXb1BOJuZpUr2sL3NwaWOV3Gr0-metadGluLXN3b3JkLnBuZw==-.png) [Item Database](/wiki/items?same_window=true)\
-![Equipment](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/sEcpQ2y73QJB9p2npUDwKSrHhskKmn-metadGluLWNoZXN0cGxhdGUucG5n-.png) [Equipment](/wiki/items-and-pets/equipment?same_window=true)\
+#### Items
+![Item Database](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/1eJxBXb1BOJuZpUr2sL3NwaWOV3Gr0-metadGluLXN3b3JkLnBuZw==-.png) [Item Database](https://smmo-db.com)\
 ![Item Types](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/skins/items/ore/coal.png) [Item Types](/wiki/items-and-pets/item-types?same_window=true)\
-![Qualities](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/tasks/upgrade_item.png) [Qualities](/wiki/items-and-pets/qualities?same_window=true)\
-![Pets](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/2x5db3TybHBA4SwXmd0S2K5bLWjTss-metac2hlbGx5LnBuZw==-.png) [Pets](/wiki/items-and-pets/pets?same_window=true)
+![Rarities](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/tasks/upgrade_item.png) [Qualities](/wiki/items-and-pets/qualities?same_window=true)
 
 </div>
 <div class="border-t border-neutral-800">
@@ -52,8 +46,7 @@ Welcome to future SimpleMMO Wiki.
 ![Hunting and Battling](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/ryXY3r3TY70wWquLMMZ7idvKVR19GS-metaaHVudGluZy1pbWFnZS5wbmc=-.png) [Hunting and Battling](/wiki/activities-and-challenges/hunting-and-battling?same_window=true)\
 ![Campaigns](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/campaigns/halloween-icon.png) [Campaigns](/wiki/activities-and-challenges/campaigns?same_window=true)\
 ![Travelling](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/map.png) [Travelling](/wiki/activities-and-challenges/travelling?same_window=true)\
-![World Bosses](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/slGUwMeiU4U6cvDSxAXLxMHKt1qCXb-metaaXNhZG9yYS5wbmc=-.png) [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true)\
-![Dungeons](https://cdn.idle-mmo.com/cdn-cgi/image/height=20,width=20/uploaded/skins/oBMoNPGBgzuTQvuhza2EzfHTlTk6Jx-metabWluZXMucG5n-.png) [Dungeons](/wiki/activities-and-challenges/dungeons?same_window=true)
+![World Bosses](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/slGUwMeiU4U6cvDSxAXLxMHKt1qCXb-metaaXNhZG9yYS5wbmc=-.png) [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true)
 
 </div>
 <div class="border-t border-neutral-800">
@@ -67,29 +60,10 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### More
-![Patch Notes](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Patch Notes](/wiki/more/patch-notes?same_window=true)\
 ![FAQs](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [FAQs](/wiki/more/faqs?same_window=true)\
 ![Road Map](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Road Map](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)
-
 </div>
-<div class="border-t border-neutral-800">
 
-#### Legal
-![Code of Conduct](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Code of Conduct](/legal/code-of-conduct?same_window=true)\
-![Privacy Policy](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Privacy Policy](/legal/privacy?same_window=true)\
-![Terms of Service](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Terms of Service](/legal/terms?same_window=true)\
-![Cookie Policy](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Cookie Policy](/legal/cookies?same_window=true)
-
-</div>
-<div class="xl:col-span-2 border-t border-neutral-800">
-  
-#### Contribution
-
-We have open sourced our Wiki on GitHub. You can contribute by submitting a Pull Request.
-
-[View GitHub](https://github.com/galahad-creative/idle-mmo-wiki)
-
-</div>
 </div>
 
 
