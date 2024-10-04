@@ -5,7 +5,7 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Introduction
-![Getting Started](https://smmo-wiki.com/assets/icons/book.png) [Getting Started](/wiki/introduction/getting-started?same_window=true)
+![Getting Started](https://smmo-wiki.com/assets/icons/book2.png) [Getting Started](/wiki/introduction/getting-started?same_window=true)
 
 </div>
 
@@ -21,8 +21,8 @@ Welcome to future SimpleMMO Wiki.
 
 #### Community and Competition
 
-![Leaderboards](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/tasks/total_skill.png) [Leaderboards](/wiki/community-and-competition/leaderboards?same_window=true)\
-![Guilds](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HQQJQD8BME4JCHG9H879XM0Q.png) [Guilds](/wiki/community-and-competition/guilds?same_window=true)
+![Leaderboards](https://smmo-wiki.test/assets/icons/leaderboards.png) [Leaderboards](/wiki/community-and-competition/leaderboards?same_window=true)\
+![Guilds](https://smmo-wiki.test/assets/icons/guilds.png) [Guilds](/wiki/community-and-competition/guilds?same_window=true)
 
 </div>
 <div class="border-t border-neutral-800">
@@ -54,14 +54,14 @@ Welcome to future SimpleMMO Wiki.
 #### Economy and Trading
 ![Market](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/gold_coin.png) [Market](/wiki/economy-and-trading/market?same_window=true)\
 ![Vendor](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/token.png) [Vendor](/wiki/economy-and-trading/vendor?same_window=true)\
-![Trading](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/gold_coin.png) [Trading](/wiki/economy-and-trading/trading?same_window=true)
+![Trading](https://smmo-wiki.test/assets/icons/trading.png) [Trading](/wiki/economy-and-trading/trading?same_window=true)
 
 </div>
 <div class="border-t border-neutral-800">
 
 #### More
-![FAQs](https://smmo-wiki.com/assets/icons/book.png) [FAQs](/wiki/more/faqs?same_window=true)\
-![Road Map](https://smmo-wiki.com/assets/icons/book.png) [Road Map](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)
+![FAQs](https://smmo-wiki.com/assets/icons/book2.png) [FAQs](/wiki/more/faqs?same_window=true)\
+![Road Map](https://smmo-wiki.com/assets/icons/book2.png) [Road Map](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)
 </div>
 
 </div>
