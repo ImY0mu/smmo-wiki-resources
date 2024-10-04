@@ -5,7 +5,7 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Introduction
-![Getting Started](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Getting Started](/wiki/gameplay-basics/getting-started?same_window=true)
+![Getting Started](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Getting Started](/wiki/introduction/getting-started?same_window=true)
 
 </div>
 
