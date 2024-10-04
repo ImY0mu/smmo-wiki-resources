@@ -5,7 +5,7 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Introduction
-![Getting Started](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Getting Started](/wiki/introduction/getting-started?same_window=true)
+![Getting Started](https://smmo-wiki.com/assets/icons/book.png) [Getting Started](/wiki/introduction/getting-started?same_window=true)
 
 </div>
 
@@ -60,8 +60,8 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### More
-![FAQs](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [FAQs](/wiki/more/faqs?same_window=true)\
-![Road Map](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Road Map](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)
+![FAQs](https://smmo-wiki.com/assets/icons/book.png) [FAQs](/wiki/more/faqs?same_window=true)\
+![Road Map](https://smmo-wiki.com/assets/icons/book.png) [Road Map](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)
 </div>
 
 </div>
