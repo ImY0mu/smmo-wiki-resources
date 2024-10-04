@@ -1,4 +1,7 @@
 # SimpleMMO Wiki (README taken from [IdleMMO Wiki](https://github.com/galahad-creative/idle-mmo-wiki))
+Currently work in progress, not accepting any PRs.
+
+
 Welcome to the Wiki for SimpleMMO, one day hopefully a comprehensive resource designed to assist players and contributors in understanding and engaging with the game. This Wiki is going to provide detailed documentation and insights into the gameplay mechanics, character, quests, and much more. 
 
 ## Requirements
