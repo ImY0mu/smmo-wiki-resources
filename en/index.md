@@ -69,6 +69,8 @@ Welcome to future SimpleMMO Wiki.
 ![Birthday Gift](https://smmo-wiki.com/assets/icons/birthday.png) [Birthday Gift](/wiki/more/faqs?same_window=true)\
 ![Login Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Login Rewards](/wiki/more/faqs?same_window=true)
 
+</div>
+<div class="border-t border-neutral-800">
 #### Other
 ![Awards](https://smmo-wiki.com/assets/icons/awards.png) [Login Rewards](/wiki/more/faqs?same_window=true)\
 ![Keys](https://smmo-wiki.com/assets/icons/keys.png) [Keys](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)\
