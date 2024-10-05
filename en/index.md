@@ -31,7 +31,7 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Lore
-![The World](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [The World](/wiki/lore/the-world?same_window=true)\
+![The World](https://smmo-wiki.test/assets/icons/world.png) [The World](/wiki/lore/the-world?same_window=true)\
 ![Gods](https://smmo-wiki.test/assets/icons/gods.png) [Gods](/wiki/lore/the-world?same_window=true)\
 ![Notable Characters](https://smmo-wiki.test/assets/icons/mahol.png) [Notable Characters](/wiki/lore/notable-characters?same_window=true)
 
@@ -40,7 +40,7 @@ Welcome to future SimpleMMO Wiki.
 
 #### Items
 ![Item Database](https://smmo-wiki.test/assets/icons/item_database.png) [Item Database](https://smmo-db.com)\
-![Item Types](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/skins/items/ore/coal.png) [Item Types](/wiki/items-and-pets/item-types?same_window=true)\
+![Item Types](https://smmo-wiki.test/assets/icons/item_types.png) [Item Types](/wiki/items-and-pets/item-types?same_window=true)\
 ![Rarities](https://smmo-wiki.test/assets/icons/rarities.png) [Rarities](/wiki/items-and-pets/qualities?same_window=true)\
 ![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/character/membership?same_window=true)
 
@@ -64,16 +64,10 @@ Welcome to future SimpleMMO Wiki.
 
 </div>
 <div class="border-t border-neutral-800">
-
-#### Rewards
-![Birthday Gift](https://smmo-wiki.com/assets/icons/birthday.png) [Birthday Gift](/wiki/more/faqs?same_window=true)\
-![Login Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Login Rewards](/wiki/more/faqs?same_window=true)
-
-</div>
-<div class="border-t border-neutral-800">
   
 #### Other
-![Awards](https://smmo-wiki.com/assets/icons/awards.png) [Login Rewards](/wiki/more/faqs?same_window=true)\
+![Awards](https://smmo-wiki.com/assets/icons/awards.png) [Awards](/wiki/more/faqs?same_window=true)\
+![Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Rewards](/wiki/more/faqs?same_window=true)\
 ![Keys](https://smmo-wiki.com/assets/icons/keys.png) [Keys](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)\
 ![Dumping Grounds](https://smmo-wiki.com/assets/icons/dumping_grounds.png) [Dumping Grounds](/wiki/character/membership?same_window=true)\
 ![Follen the Healer](https://smmo-wiki.com/assets/icons/healer.png) [Follen the Healer](/wiki/character/membership?same_window=true)
