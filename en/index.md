@@ -63,26 +63,33 @@ Welcome to future SimpleMMO Wiki.
 ![Trading](https://smmo-wiki.test/assets/icons/trading.png) [Trading](/wiki/economy-and-trading/trading?same_window=true)
 
 </div>
+
 <div class="border-t border-neutral-800">
 
-### Rewards
+#### Rewards
+
 ![Birthday Gift](https://smmo-wiki.com/assets/icons/birthday.png) [Birthday Gift](/wiki/more/faqs?same_window=true)\
 ![Login Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Login Rewards](/wiki/more/faqs?same_window=true)
 
 </div>
+
 <div class="border-t border-neutral-800">
+  
 #### Other
+
 ![Awards](https://smmo-wiki.com/assets/icons/awards.png) [Login Rewards](/wiki/more/faqs?same_window=true)\
 ![Keys](https://smmo-wiki.com/assets/icons/keys.png) [Keys](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)\
 ![Dumping Grounds](https://smmo-wiki.com/assets/icons/dumping_grounds.png) [Dumping Grounds](/wiki/character/membership?same_window=true)\
 ![Follen the Healer](https://smmo-wiki.com/assets/icons/healer.png) [Follen the Healer](/wiki/character/membership?same_window=true)
+
 </div>
 
 <div class="border-t border-neutral-800">
-
+  
 #### More
 ![FAQs](https://smmo-wiki.com/assets/icons/book2.png) [FAQs](/wiki/more/faqs?same_window=true)\
 ![Road Map](https://smmo-wiki.com/assets/icons/book2.png) [Road Map](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)
+
 </div>
 
 </div>
