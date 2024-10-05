@@ -78,6 +78,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 #### More
 
 ![FAQs](https://smmo-wiki.com/assets/icons/book2.png) [FAQs](/wiki/more/faqs)\
+![Game Rules](https://smmo-wiki.com/assets/icons/book2.png) [FAQs](/wiki/more/game-rules)\
 ![Road Map](https://smmo-wiki.com/assets/icons/book2.png) [Road Map](https://trello.com/b/XEzvjZVd/simplemmo-public-roadmap)
 
 </div>
