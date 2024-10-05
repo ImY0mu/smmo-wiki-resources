@@ -25,7 +25,7 @@ Welcome to future SimpleMMO Wiki.
 ![Discussion Boards](https://smmo-wiki.test/assets/icons/discussion_boards.png) [Discussion Boards](/wiki/community-and-competition/leaderboards?same_window=true)\
 ![Leaderboards](https://smmo-wiki.test/assets/icons/leaderboards.png) [Leaderboards](/wiki/community-and-competition/leaderboards?same_window=true)\
 ![Guilds](https://smmo-wiki.test/assets/icons/guilds.png) [Guilds](/wiki/community-and-competition/guilds?same_window=true)\
-![Orphanage](https://smmo-wiki.test/assets/icons/orphanage.png) [Orphanage](/wiki/community-and-competition/guilds?same_window=true)\
+![Orphanage](https://smmo-wiki.test/assets/icons/orphanage.png) [Orphanage](/wiki/community-and-competition/guilds?same_window=true)
 
 </div>
 <div class="border-t border-neutral-800">
