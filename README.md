@@ -9,7 +9,7 @@ To ensure a consistent and quality experience for all users, please adhere to th
 - **No New Files** - Do not create new files. Only edit existing files.
 - **Don't Edit index.md** - Any changes to index.md will be denied.
 - **No External Links** - Avoid linking to external websites. All content should be self-contained within the Wiki.
-- **Appropriate Content** - Any content must adhere to IdleMMO's [Terms of Service](https://web.simple-mmo.com/terms) and [Game Rules](https://web.simple-mmo.com/gamerules).
+- **Appropriate Content** - Any content must adhere to SimpleMMO's [Terms of Service](https://web.simple-mmo.com/terms) and [Game Rules](https://web.simple-mmo.com/gamerules).
 - **List All Changes** - Each PR must include a detailed list of all changes made. This should be clearly outlined in the pull request description.
 
 ## Additional Contribution Notes
@@ -17,7 +17,7 @@ Please note the following additional requirements to maintain the integrity and 
 
 - **Language Support** - Currently, we only support content in English. Contributions in other languages will not be accepted.
 - **Separate Pull Requests** - Keep your pull requests (PRs) small. If a PR contains hundreds of changes, it risks rejection if even a single line violates our guidelines. Split large updates into multiple PRs for simpler reviews and better approval chances.
-- **Image Usage** - Only images hosted on the IdleMMO CDN are allowed. Obtain these by copying an image URL directly from the game.
+- **Image Usage** - Only images hosted on the SimpleMMO are allowed. Obtain these by copying an image URL directly from the game.
 - **Factual Content** - Ensure that all contributions are factual and unbiased. Avoid opinions or subjective statements.
 - **Appropriate Language** - Use clear, straightforward, and appropriate language that is easy to understand.
 - **AI Content** - Contributions must be primarily human-generated. While AI tools can be used to check grammar or refine language, fully AI-generated content is not permitted.
