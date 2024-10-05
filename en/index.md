@@ -67,7 +67,9 @@ Welcome to future SimpleMMO Wiki.
 #### Other
 ![Activity Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Activity Rewards](/wiki/more/faqs?same_window=true)\
 ![Keys](https://smmo-wiki.com/assets/icons/keys.png) [Keys](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)\
-![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/character/membership?same_window=true)
+![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/character/membership?same_window=true)\
+![Dumping Grounds](https://smmo-wiki.com/assets/icons/dumping_grounds.png) [Dumping Grounds](/wiki/character/membership?same_window=true)\
+![Follen the Healer](https://smmo-wiki.com/assets/icons/healer.png) [Follen the Healer](/wiki/character/membership?same_window=true)\
 </div>
 
 <div class="border-t border-neutral-800">
