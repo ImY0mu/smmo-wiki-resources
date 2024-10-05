@@ -10,7 +10,7 @@ If you need more help or feel the guide isn't enough, our [Discord](https://disc
 
 Traveling is the foundation of SimpleMMO, allowing you to make progress without being tied to any energy based system.
 
-- Navigate to the `Travel` page by pressing the button at the middle of the navigation bar.
+- Navigate to the `Travel Page` by pressing the button at the middle of the navigation bar.
 - Press `Take a Step` button to start your adventure. There's a chance to get gold, experience or items whenever you take a step.
 - You’ll see various monsters you can fight, or trees, ores and more you can gather depending on your current location.
 - More `Locations` open as your character progresses through the game.
@@ -44,6 +44,6 @@ Engaging in battle in SimpleMMO starts with generating an enemy. Keep in mind ea
 Congratulations! You've now mastered the basics of SimpleMMO. With just a few clicks, you can set your character on a path of adventure.
 
 ## What's next?
-Todo: Try checking out our [Character](/wiki/character/skills?same_window=true) section to learn more about the skills you can develop in IdleMMO.
+Try checking out our [Skills](/wiki/character/skills?same_window=true) section to learn more about the skills you can develop in SimpleMMO.
 
 To gain a better understanding of SimpleMMO's gameplay mechanics, we recommend exploring more sections of our wiki. If you face any challenges or have questions, our friendly community on the [Discord](https://discord.gg/SEQxubs) server is ready to help.
