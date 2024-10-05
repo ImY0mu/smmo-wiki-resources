@@ -1,5 +1,5 @@
 # Welcome
-Welcome to future SimpleMMO Wiki.
+Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleMMO.
 
 <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-4 xl:gap-y-12 mt-4 home">
 <div class="border-t border-neutral-800">
