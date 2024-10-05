@@ -5,18 +5,18 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Introduction
-![Getting Started](https://smmo-wiki.com/assets/icons/book2.png) [Getting Started](/wiki/introduction/getting-started?same_window=true)
+![Getting Started](https://smmo-wiki.com/assets/icons/getting_started.png) [Getting Started](/wiki/introduction/getting-started?same_window=true)
 
 </div>
 
 <div class="border-t border-neutral-800">
 
 #### Character
-![Skills](https://smmo-wiki.com/assets/icons/fishing.png) [Skills](/wiki/character/skills?same_window=true)\
-![Jobs](https://smmo-wiki.com/assets/icons/cooking.png) [Jobs](/wiki/character/skills?same_window=true)\
 ![Stats](https://smmo-wiki.com/assets/icons/strength.png) [Stats](/wiki/character/stats?same_window=true)\
-![Membership](https://smmo-wiki.com/assets/icons/membership.png) [Membership](/wiki/character/membership?same_window=true)\
-![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/character/membership?same_window=true)
+![Skills](https://smmo-wiki.com/assets/icons/fishing.png) [Skills](/wiki/character/skills?same_window=true)\
+![Crafting](https://smmo-wiki.com/assets/icons/crafting.png) [Crafting](/wiki/character/membership?same_window=true)\
+![Jobs](https://smmo-wiki.com/assets/icons/cooking.png) [Jobs](/wiki/character/skills?same_window=true)\
+![Membership](https://smmo-wiki.com/assets/icons/membership.png) [Membership](/wiki/character/membership?same_window=true)
 
 </div>
 <div class="border-t border-neutral-800">
@@ -24,7 +24,8 @@ Welcome to future SimpleMMO Wiki.
 #### Community and Competition
 ![Discussion Boards](https://smmo-wiki.test/assets/icons/discussion_boards.png) [Discussion Boards](/wiki/community-and-competition/leaderboards?same_window=true)\
 ![Leaderboards](https://smmo-wiki.test/assets/icons/leaderboards.png) [Leaderboards](/wiki/community-and-competition/leaderboards?same_window=true)\
-![Guilds](https://smmo-wiki.test/assets/icons/guilds.png) [Guilds](/wiki/community-and-competition/guilds?same_window=true)
+![Guilds](https://smmo-wiki.test/assets/icons/guilds.png) [Guilds](/wiki/community-and-competition/guilds?same_window=true)\
+![Orphanage](https://smmo-wiki.test/assets/icons/orphanage.png) [Orphanage](/wiki/community-and-competition/guilds?same_window=true)\
 
 </div>
 <div class="border-t border-neutral-800">
@@ -65,7 +66,8 @@ Welcome to future SimpleMMO Wiki.
 
 #### Other
 ![Activity Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Activity Rewards](/wiki/more/faqs?same_window=true)\
-![Keys](https://smmo-wiki.com/assets/icons/keys.png) [Keys](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)
+![Keys](https://smmo-wiki.com/assets/icons/keys.png) [Keys](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)\
+![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/character/membership?same_window=true)
 </div>
 
 <div class="border-t border-neutral-800">
