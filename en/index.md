@@ -22,37 +22,37 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 <div class="border-t border-neutral-800">
 
 #### Community and Competition
-![Discussion Boards](https://smmo-wiki.test/assets/icons/discussion_boards.png) [Discussion Boards](/wiki/community-and-competition/leaderboards)\
-![Leaderboards](https://smmo-wiki.test/assets/icons/leaderboards.png) [Leaderboards](/wiki/community-and-competition/leaderboards)\
-![Guilds](https://smmo-wiki.test/assets/icons/guilds.png) [Guilds](/wiki/community-and-competition/guilds)\
-![Orphanage](https://smmo-wiki.test/assets/icons/orphanage.png) [Orphanage](/wiki/community-and-competition/guilds)
+![Discussion Boards](https://smmo-wiki.com/assets/icons/discussion_boards.png) [Discussion Boards](/wiki/community-and-competition/leaderboards)\
+![Leaderboards](https://smmo-wiki.com/assets/icons/leaderboards.png) [Leaderboards](/wiki/community-and-competition/leaderboards)\
+![Guilds](https://smmo-wiki.com/assets/icons/guilds.png) [Guilds](/wiki/community-and-competition/guilds)\
+![Orphanage](https://smmo-wiki.com/assets/icons/orphanage.png) [Orphanage](/wiki/community-and-competition/guilds)
 
 </div>
 <div class="border-t border-neutral-800">
 
 #### Lore
-![The World](https://smmo-wiki.test/assets/icons/world.png) [The World](/wiki/lore/the-world)\
-![Gods](https://smmo-wiki.test/assets/icons/gods.png) [Gods](/wiki/lore/the-world)\
-![Notable Characters](https://smmo-wiki.test/assets/icons/mahol.png) [Notable Characters](/wiki/lore/notable-characters)
+![The World](https://smmo-wiki.com/assets/icons/world.png) [The World](/wiki/lore/the-world)\
+![Gods](https://smmo-wiki.com/assets/icons/gods.png) [Gods](/wiki/lore/the-world)\
+![Notable Characters](https://smmo-wiki.com/assets/icons/mahol.png) [Notable Characters](/wiki/lore/notable-characters)
 
 </div>
 <div class="border-t border-neutral-800">
 
 #### Items
-![Item Database](https://smmo-wiki.test/assets/icons/item_database.png) [Item Database](https://smmo-db.com)\
-![Item Types](https://smmo-wiki.test/assets/icons/item_types.png) [Item Types](/wiki/items/item-types)\
-![Rarities](https://smmo-wiki.test/assets/icons/rarities.png) [Rarities](/wiki/items/rarities)\
+![Item Database](https://smmo-wiki.com/assets/icons/item_database.png) [Item Database](https://smmo-db.com)\
+![Item Types](https://smmo-wiki.com/assets/icons/item_types.png) [Item Types](/wiki/items/item-types)\
+![Rarities](https://smmo-wiki.com/assets/icons/rarities.png) [Rarities](/wiki/items/rarities)\
 ![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/items/collection)
 
 </div>
 <div class="border-t border-neutral-800">
 
 #### Activites and Challenges
-![Travelling](https://smmo-wiki.test/assets/icons/travelling.png) [Travelling](/wiki/activities-and-challenges/travelling)\
+![Travelling](https://smmo-wiki.com/assets/icons/travelling.png) [Travelling](/wiki/activities-and-challenges/travelling)\
 ![Battle Arena](https://smmo-wiki.com/assets/icons/arena.png) [Battle Arena](/wiki/activities-and-challenges/battle-arena)\
 ![Quests](https://smmo-wiki.com/assets/icons/quests.png) [Quests](/wiki/activities-and-challenges/quests)\
 ![Tasks](https://smmo-wiki.com/assets/icons/tasks.png) [Tasks](/wiki/activities-and-challenges/tasks)\
-![World Bosses](https://smmo-wiki.test/assets/icons/world_boss.png) [World Bosses](/wiki/activities-and-challenges/world-bosses)
+![World Bosses](https://smmo-wiki.com/assets/icons/world_boss.png) [World Bosses](/wiki/activities-and-challenges/world-bosses)
 
 </div>
 <div class="border-t border-neutral-800">
@@ -60,7 +60,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 #### Economy and Trading
 ![Player Market](https://smmo-wiki.com/assets/icons/coins.png) [Player Market](/wiki/economy-and-trading/player-market)\
 ![Item Shop](https://smmo-wiki.com/assets/icons/gold.png) [Item Shop](/wiki/economy-and-trading/item-shop)\
-![Trading](https://smmo-wiki.test/assets/icons/trading.png) [Trading](/wiki/economy-and-trading/trading)
+![Trading](https://smmo-wiki.com/assets/icons/trading.png) [Trading](/wiki/economy-and-trading/trading)
 
 </div>
 <div class="border-t border-neutral-800">
