@@ -14,7 +14,7 @@ Welcome to future SimpleMMO Wiki.
 #### Character
 ![Jobs](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/DKC4LgMAyoUlDmo99LJOVbtUZsezIi-metad29vZGN1dHRpbmcucG5n-.png) [Skills](/wiki/character/skills?same_window=true)\
 ![Stats](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/stats/strength.png) [Stats](/wiki/character/stats?same_window=true)\
-![Membership](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/membership.png) [Membership](/wiki/character/membership?same_window=true)
+![Membership](https://smmo-wiki.com/assets/icons/membership.png) [Membership](/wiki/character/membership?same_window=true)
 
 </div>
 <div class="border-t border-neutral-800">
@@ -43,8 +43,8 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Activites and Challenges
-![Hunting and Battling](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/ryXY3r3TY70wWquLMMZ7idvKVR19GS-metaaHVudGluZy1pbWFnZS5wbmc=-.png) [Hunting and Battling](/wiki/activities-and-challenges/hunting-and-battling?same_window=true)\
-![Campaigns](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/campaigns/halloween-icon.png) [Campaigns](/wiki/activities-and-challenges/campaigns?same_window=true)\
+![Battle Arena](https://smmo-wiki.com/assets/icons/battle.png) [Hunting and Battling](/wiki/activities-and-challenges/hunting-and-battling?same_window=true)\
+![Quests](https://smmo-wiki.com/assets/icons/quests.png) [Campaigns](/wiki/activities-and-challenges/campaigns?same_window=true)\
 ![Travelling](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/map.png) [Travelling](/wiki/activities-and-challenges/travelling?same_window=true)\
 ![World Bosses](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/slGUwMeiU4U6cvDSxAXLxMHKt1qCXb-metaaXNhZG9yYS5wbmc=-.png) [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true)
 
@@ -52,8 +52,8 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Economy and Trading
-![Market](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/gold_coin.png) [Market](/wiki/economy-and-trading/market?same_window=true)\
-![Vendor](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/token.png) [Vendor](/wiki/economy-and-trading/vendor?same_window=true)\
+![Market](https://smmo-wiki.com/assets/icons/coins.png) [Market](/wiki/economy-and-trading/market?same_window=true)\
+![Vendor](https://smmo-wiki.com/assets/icons/gold.png) [Vendor](/wiki/economy-and-trading/vendor?same_window=true)\
 ![Trading](https://smmo-wiki.test/assets/icons/trading.png) [Trading](/wiki/economy-and-trading/trading?same_window=true)
 
 </div>
