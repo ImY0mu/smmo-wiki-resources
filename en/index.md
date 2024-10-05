@@ -49,7 +49,7 @@ Welcome to future SimpleMMO Wiki.
 ![Travelling](https://smmo-wiki.test/assets/icons/travelling.png) [Travelling](/wiki/activities-and-challenges/travelling?same_window=true)\
 ![Battle Arena](https://smmo-wiki.com/assets/icons/arena.png) [Battle Arena](/wiki/activities-and-challenges/campaigns?same_window=true)\
 ![Quests](https://smmo-wiki.com/assets/icons/quests.png) [Quests](/wiki/activities-and-challenges/campaigns?same_window=true)\
-![Tasks](https://smmo-wiki.com/assets/icons/quests.png) [Quests](/wiki/activities-and-challenges/campaigns?same_window=true)\
+![Tasks](https://smmo-wiki.com/assets/icons/tasks.png) [Tasks](/wiki/activities-and-challenges/campaigns?same_window=true)\
 ![World Bosses](https://smmo-wiki.test/assets/icons/world_boss.png) [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true)
 
 </div>
