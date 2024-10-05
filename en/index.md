@@ -12,16 +12,17 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Character
-![Skills](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/DKC4LgMAyoUlDmo99LJOVbtUZsezIi-metad29vZGN1dHRpbmcucG5n-.png) [Skills](/wiki/character/skills?same_window=true)\
+![Skills](https://smmo-wiki.com/assets/icons/fishing.png) [Skills](/wiki/character/skills?same_window=true)\
 ![Jobs](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/DKC4LgMAyoUlDmo99LJOVbtUZsezIi-metad29vZGN1dHRpbmcucG5n-.png) [Jobs](/wiki/character/skills?same_window=true)\
-![Stats](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/stats/strength.png) [Stats](/wiki/character/stats?same_window=true)\
-![Membership](https://smmo-wiki.com/assets/icons/membership.png) [Membership](/wiki/character/membership?same_window=true)
+![Stats](https://smmo-wiki.com/assets/icons/strength.png) [Stats](/wiki/character/stats?same_window=true)\
+![Membership](https://smmo-wiki.com/assets/icons/membership.png) [Membership](/wiki/character/membership?same_window=true)\
+![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/character/membership?same_window=true)
 
 </div>
 <div class="border-t border-neutral-800">
 
 #### Community and Competition
-
+![Discussion Boards](https://smmo-wiki.test/assets/icons/discussion_boards.png) [Discussion Boards](/wiki/community-and-competition/leaderboards?same_window=true)\
 ![Leaderboards](https://smmo-wiki.test/assets/icons/leaderboards.png) [Leaderboards](/wiki/community-and-competition/leaderboards?same_window=true)\
 ![Guilds](https://smmo-wiki.test/assets/icons/guilds.png) [Guilds](/wiki/community-and-competition/guilds?same_window=true)
 
@@ -30,6 +31,7 @@ Welcome to future SimpleMMO Wiki.
 
 #### Lore
 ![The World](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [The World](/wiki/lore/the-world?same_window=true)\
+![Gods](https://smmo-wiki.test/assets/icons/gods.png) [Gods](/wiki/lore/the-world?same_window=true)\
 ![Notable Characters](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/ZFIbaxVCwGZQpimXrC31ys6KdZwRzl-metaQ2VsZXN0cmlhLnBuZw==-.png) [Notable Characters](/wiki/lore/notable-characters?same_window=true)
 
 </div>
@@ -47,7 +49,7 @@ Welcome to future SimpleMMO Wiki.
 ![Battle Arena](https://smmo-wiki.com/assets/icons/arena.png) [Battle Arena](/wiki/activities-and-challenges/campaigns?same_window=true)\
 ![Quests](https://smmo-wiki.com/assets/icons/quests.png) [Quests](/wiki/activities-and-challenges/campaigns?same_window=true)\
 ![Travelling](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/map.png) [Travelling](/wiki/activities-and-challenges/travelling?same_window=true)\
-![World Bosses](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/slGUwMeiU4U6cvDSxAXLxMHKt1qCXb-metaaXNhZG9yYS5wbmc=-.png) [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true)
+![World Bosses](https://smmo-wiki.test/assets/icons/world_boss.png) [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true)
 
 </div>
 <div class="border-t border-neutral-800">
