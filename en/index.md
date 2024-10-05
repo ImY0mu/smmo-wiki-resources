@@ -58,8 +58,8 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 <div class="border-t border-neutral-800">
 
 #### Economy and Trading
-![Market](https://smmo-wiki.com/assets/icons/coins.png) [Market](/wiki/economy-and-trading/market)\
-![Vendor](https://smmo-wiki.com/assets/icons/gold.png) [Vendor](/wiki/economy-and-trading/vendor)\
+![Player Market](https://smmo-wiki.com/assets/icons/coins.png) [Player Market](/wiki/economy-and-trading/market)\
+![Item Store](https://smmo-wiki.com/assets/icons/gold.png) [Item Store](/wiki/economy-and-trading/vendor)\
 ![Trading](https://smmo-wiki.test/assets/icons/trading.png) [Trading](/wiki/economy-and-trading/trading)
 
 </div>
