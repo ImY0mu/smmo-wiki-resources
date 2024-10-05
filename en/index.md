@@ -41,7 +41,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 #### Items
 ![Item Database](https://smmo-wiki.test/assets/icons/item_database.png) [Item Database](https://smmo-db.com)\
 ![Item Types](https://smmo-wiki.test/assets/icons/item_types.png) [Item Types](/wiki/items/item-types)\
-![Rarities](https://smmo-wiki.test/assets/icons/rarities.png) [Rarities](/wiki/items/qualities)\
+![Rarities](https://smmo-wiki.test/assets/icons/rarities.png) [Rarities](/wiki/items/rarities)\
 ![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/items/collection)
 
 </div>
