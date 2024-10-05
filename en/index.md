@@ -43,7 +43,7 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Activites and Challenges
-![Battle Arena](https://smmo-wiki.com/assets/icons/battle.png) [Hunting and Battling](/wiki/activities-and-challenges/hunting-and-battling?same_window=true)\
+![Battle Arena](https://smmo-wiki.com/assets/icons/arena.png)\
 ![Quests](https://smmo-wiki.com/assets/icons/quests.png) [Campaigns](/wiki/activities-and-challenges/campaigns?same_window=true)\
 ![Travelling](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/map.png) [Travelling](/wiki/activities-and-challenges/travelling?same_window=true)\
 ![World Bosses](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/slGUwMeiU4U6cvDSxAXLxMHKt1qCXb-metaaXNhZG9yYS5wbmc=-.png) [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true)
