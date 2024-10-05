@@ -39,9 +39,10 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Items
-![Item Database](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/1eJxBXb1BOJuZpUr2sL3NwaWOV3Gr0-metadGluLXN3b3JkLnBuZw==-.png) [Item Database](https://smmo-db.com)\
+![Item Database](https://smmo-wiki.test/assets/icons/item_database.png) [Item Database](https://smmo-db.com)\
 ![Item Types](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/skins/items/ore/coal.png) [Item Types](/wiki/items-and-pets/item-types?same_window=true)\
-![Rarities](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/tasks/upgrade_item.png) [Rarities](/wiki/items-and-pets/qualities?same_window=true)
+![Rarities](https://smmo-wiki.test/assets/icons/rarities.png) [Rarities](/wiki/items-and-pets/qualities?same_window=true)\
+![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/character/membership?same_window=true)
 
 </div>
 <div class="border-t border-neutral-800">
@@ -64,12 +65,15 @@ Welcome to future SimpleMMO Wiki.
 </div>
 <div class="border-t border-neutral-800">
 
+### Rewards
+![Birthday Gift](https://smmo-wiki.com/assets/icons/birthday.png) [Birthday Gift](/wiki/more/faqs?same_window=true)\
+![Login Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Login Rewards](/wiki/more/faqs?same_window=true)
+
 #### Other
-![Activity Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Activity Rewards](/wiki/more/faqs?same_window=true)\
+![Awards](https://smmo-wiki.com/assets/icons/awards.png) [Login Rewards](/wiki/more/faqs?same_window=true)\
 ![Keys](https://smmo-wiki.com/assets/icons/keys.png) [Keys](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)\
-![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/character/membership?same_window=true)\
 ![Dumping Grounds](https://smmo-wiki.com/assets/icons/dumping_grounds.png) [Dumping Grounds](/wiki/character/membership?same_window=true)\
-![Follen the Healer](https://smmo-wiki.com/assets/icons/healer.png) [Follen the Healer](/wiki/character/membership?same_window=true)\
+![Follen the Healer](https://smmo-wiki.com/assets/icons/healer.png) [Follen the Healer](/wiki/character/membership?same_window=true)
 </div>
 
 <div class="border-t border-neutral-800">
