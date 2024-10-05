@@ -5,79 +5,79 @@ Welcome to future SimpleMMO Wiki.
 <div class="border-t border-neutral-800">
 
 #### Introduction
-![Getting Started](https://smmo-wiki.com/assets/icons/getting_started.png) [Getting Started](/wiki/introduction/getting-started?same_window=true)
+![Getting Started](https://smmo-wiki.com/assets/icons/getting_started.png) [Getting Started](/wiki/introduction/getting-started)
 
 </div>
 
 <div class="border-t border-neutral-800">
 
 #### Character
-![Stats](https://smmo-wiki.com/assets/icons/strength.png) [Stats](/wiki/character/stats?same_window=true)\
-![Skills](https://smmo-wiki.com/assets/icons/fishing.png) [Skills](/wiki/character/skills?same_window=true)\
-![Crafting](https://smmo-wiki.com/assets/icons/crafting.png) [Crafting](/wiki/character/membership?same_window=true)\
-![Jobs](https://smmo-wiki.com/assets/icons/cooking.png) [Jobs](/wiki/character/skills?same_window=true)\
-![Membership](https://smmo-wiki.com/assets/icons/membership.png) [Membership](/wiki/character/membership?same_window=true)
+![Stats](https://smmo-wiki.com/assets/icons/strength.png) [Stats](/wiki/character/stats)\
+![Skills](https://smmo-wiki.com/assets/icons/fishing.png) [Skills](/wiki/character/skills)\
+![Crafting](https://smmo-wiki.com/assets/icons/crafting.png) [Crafting](/wiki/character/membership)\
+![Jobs](https://smmo-wiki.com/assets/icons/cooking.png) [Jobs](/wiki/character/skills)\
+![Membership](https://smmo-wiki.com/assets/icons/membership.png) [Membership](/wiki/character/membership)
 
 </div>
 <div class="border-t border-neutral-800">
 
 #### Community and Competition
-![Discussion Boards](https://smmo-wiki.test/assets/icons/discussion_boards.png) [Discussion Boards](/wiki/community-and-competition/leaderboards?same_window=true)\
-![Leaderboards](https://smmo-wiki.test/assets/icons/leaderboards.png) [Leaderboards](/wiki/community-and-competition/leaderboards?same_window=true)\
-![Guilds](https://smmo-wiki.test/assets/icons/guilds.png) [Guilds](/wiki/community-and-competition/guilds?same_window=true)\
-![Orphanage](https://smmo-wiki.test/assets/icons/orphanage.png) [Orphanage](/wiki/community-and-competition/guilds?same_window=true)
+![Discussion Boards](https://smmo-wiki.test/assets/icons/discussion_boards.png) [Discussion Boards](/wiki/community-and-competition/leaderboards)\
+![Leaderboards](https://smmo-wiki.test/assets/icons/leaderboards.png) [Leaderboards](/wiki/community-and-competition/leaderboards)\
+![Guilds](https://smmo-wiki.test/assets/icons/guilds.png) [Guilds](/wiki/community-and-competition/guilds)\
+![Orphanage](https://smmo-wiki.test/assets/icons/orphanage.png) [Orphanage](/wiki/community-and-competition/guilds)
 
 </div>
 <div class="border-t border-neutral-800">
 
 #### Lore
-![The World](https://smmo-wiki.test/assets/icons/world.png) [The World](/wiki/lore/the-world?same_window=true)\
-![Gods](https://smmo-wiki.test/assets/icons/gods.png) [Gods](/wiki/lore/the-world?same_window=true)\
-![Notable Characters](https://smmo-wiki.test/assets/icons/mahol.png) [Notable Characters](/wiki/lore/notable-characters?same_window=true)
+![The World](https://smmo-wiki.test/assets/icons/world.png) [The World](/wiki/lore/the-world)\
+![Gods](https://smmo-wiki.test/assets/icons/gods.png) [Gods](/wiki/lore/the-world)\
+![Notable Characters](https://smmo-wiki.test/assets/icons/mahol.png) [Notable Characters](/wiki/lore/notable-characters)
 
 </div>
 <div class="border-t border-neutral-800">
 
 #### Items
 ![Item Database](https://smmo-wiki.test/assets/icons/item_database.png) [Item Database](https://smmo-db.com)\
-![Item Types](https://smmo-wiki.test/assets/icons/item_types.png) [Item Types](/wiki/items-and-pets/item-types?same_window=true)\
-![Rarities](https://smmo-wiki.test/assets/icons/rarities.png) [Rarities](/wiki/items-and-pets/qualities?same_window=true)\
-![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/character/membership?same_window=true)
+![Item Types](https://smmo-wiki.test/assets/icons/item_types.png) [Item Types](/wiki/items-and-pets/item-types)\
+![Rarities](https://smmo-wiki.test/assets/icons/rarities.png) [Rarities](/wiki/items-and-pets/qualities)\
+![Collection](https://smmo-wiki.com/assets/icons/collection.png) [Collection](/wiki/character/membership)
 
 </div>
 <div class="border-t border-neutral-800">
 
 #### Activites and Challenges
-![Travelling](https://smmo-wiki.test/assets/icons/travelling.png) [Travelling](/wiki/activities-and-challenges/travelling?same_window=true)\
-![Battle Arena](https://smmo-wiki.com/assets/icons/arena.png) [Battle Arena](/wiki/activities-and-challenges/campaigns?same_window=true)\
-![Quests](https://smmo-wiki.com/assets/icons/quests.png) [Quests](/wiki/activities-and-challenges/campaigns?same_window=true)\
-![Tasks](https://smmo-wiki.com/assets/icons/tasks.png) [Tasks](/wiki/activities-and-challenges/campaigns?same_window=true)\
-![World Bosses](https://smmo-wiki.test/assets/icons/world_boss.png) [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true)
+![Travelling](https://smmo-wiki.test/assets/icons/travelling.png) [Travelling](/wiki/activities-and-challenges/travelling)\
+![Battle Arena](https://smmo-wiki.com/assets/icons/arena.png) [Battle Arena](/wiki/activities-and-challenges/campaigns)\
+![Quests](https://smmo-wiki.com/assets/icons/quests.png) [Quests](/wiki/activities-and-challenges/campaigns)\
+![Tasks](https://smmo-wiki.com/assets/icons/tasks.png) [Tasks](/wiki/activities-and-challenges/campaigns)\
+![World Bosses](https://smmo-wiki.test/assets/icons/world_boss.png) [World Bosses](/wiki/activities-and-challenges/world-bosses)
 
 </div>
 <div class="border-t border-neutral-800">
 
 #### Economy and Trading
-![Market](https://smmo-wiki.com/assets/icons/coins.png) [Market](/wiki/economy-and-trading/market?same_window=true)\
-![Vendor](https://smmo-wiki.com/assets/icons/gold.png) [Vendor](/wiki/economy-and-trading/vendor?same_window=true)\
-![Trading](https://smmo-wiki.test/assets/icons/trading.png) [Trading](/wiki/economy-and-trading/trading?same_window=true)
+![Market](https://smmo-wiki.com/assets/icons/coins.png) [Market](/wiki/economy-and-trading/market)\
+![Vendor](https://smmo-wiki.com/assets/icons/gold.png) [Vendor](/wiki/economy-and-trading/vendor)\
+![Trading](https://smmo-wiki.test/assets/icons/trading.png) [Trading](/wiki/economy-and-trading/trading)
 
 </div>
 <div class="border-t border-neutral-800">
   
 #### Other
-![Awards](https://smmo-wiki.com/assets/icons/awards.png) [Awards](/wiki/more/faqs?same_window=true)\
-![Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Rewards](/wiki/more/faqs?same_window=true)\
+![Awards](https://smmo-wiki.com/assets/icons/awards.png) [Awards](/wiki/more/faqs)\
+![Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Rewards](/wiki/more/faqs)\
 ![Keys](https://smmo-wiki.com/assets/icons/keys.png) [Keys](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)\
-![Dumping Grounds](https://smmo-wiki.com/assets/icons/dumping_grounds.png) [Dumping Grounds](/wiki/character/membership?same_window=true)\
-![Follen the Healer](https://smmo-wiki.com/assets/icons/healer.png) [Follen the Healer](/wiki/character/membership?same_window=true)
+![Dumping Grounds](https://smmo-wiki.com/assets/icons/dumping_grounds.png) [Dumping Grounds](/wiki/character/membership)\
+![Follen the Healer](https://smmo-wiki.com/assets/icons/healer.png) [Follen the Healer](/wiki/character/membership)
 
 </div>
 <div class="border-t border-neutral-800">
   
 #### More
 
-![FAQs](https://smmo-wiki.com/assets/icons/book2.png) [FAQs](/wiki/more/faqs?same_window=true)\
+![FAQs](https://smmo-wiki.com/assets/icons/book2.png) [FAQs](/wiki/more/faqs)\
 ![Road Map](https://smmo-wiki.com/assets/icons/book2.png) [Road Map](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)
 
 </div>
