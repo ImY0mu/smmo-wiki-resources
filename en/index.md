@@ -49,9 +49,9 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 
 #### Activites and Challenges
 ![Travelling](https://smmo-wiki.test/assets/icons/travelling.png) [Travelling](/wiki/activities-and-challenges/travelling)\
-![Battle Arena](https://smmo-wiki.com/assets/icons/arena.png) [Battle Arena](/wiki/activities-and-challenges/campaigns)\
-![Quests](https://smmo-wiki.com/assets/icons/quests.png) [Quests](/wiki/activities-and-challenges/campaigns)\
-![Tasks](https://smmo-wiki.com/assets/icons/tasks.png) [Tasks](/wiki/activities-and-challenges/campaigns)\
+![Battle Arena](https://smmo-wiki.com/assets/icons/arena.png) [Battle Arena](/wiki/activities-and-challenges/battle-arena)\
+![Quests](https://smmo-wiki.com/assets/icons/quests.png) [Quests](/wiki/activities-and-challenges/quests)\
+![Tasks](https://smmo-wiki.com/assets/icons/tasks.png) [Tasks](/wiki/activities-and-challenges/tasks)\
 ![World Bosses](https://smmo-wiki.test/assets/icons/world_boss.png) [World Bosses](/wiki/activities-and-challenges/world-bosses)
 
 </div>
@@ -66,11 +66,11 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 <div class="border-t border-neutral-800">
   
 #### Other
-![Awards](https://smmo-wiki.com/assets/icons/awards.png) [Awards](/wiki/more/faqs)\
-![Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Rewards](/wiki/more/faqs)\
-![Keys](https://smmo-wiki.com/assets/icons/keys.png) [Keys](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)\
-![Dumping Grounds](https://smmo-wiki.com/assets/icons/dumping_grounds.png) [Dumping Grounds](/wiki/character/membership)\
-![Follen the Healer](https://smmo-wiki.com/assets/icons/healer.png) [Follen the Healer](/wiki/character/membership)
+![Awards](https://smmo-wiki.com/assets/icons/awards.png) [Awards](/wiki/other/awards)\
+![Rewards](https://smmo-wiki.com/assets/icons/rewards.png) [Rewards](/wiki/other/rewards)\
+![Keys](https://smmo-wiki.com/assets/icons/keys.png) [Keys](/wiki/other/keys)\
+![Dumping Grounds](https://smmo-wiki.com/assets/icons/dumping_grounds.png) [Dumping Grounds](/wiki/other/dumping-grounds)\
+![Follen the Healer](https://smmo-wiki.com/assets/icons/healer.png) [Follen the Healer](/wiki/other/follen-the-healer)
 
 </div>
 <div class="border-t border-neutral-800">
@@ -78,7 +78,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 #### More
 
 ![FAQs](https://smmo-wiki.com/assets/icons/book2.png) [FAQs](/wiki/more/faqs)\
-![Road Map](https://smmo-wiki.com/assets/icons/book2.png) [Road Map](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)
+![Road Map](https://smmo-wiki.com/assets/icons/book2.png) [Road Map](https://trello.com/b/XEzvjZVd/simplemmo-public-roadmap)
 
 </div>
 <div class="xl:col-span-2 border-t border-neutral-800">
