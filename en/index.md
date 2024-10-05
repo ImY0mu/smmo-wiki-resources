@@ -81,6 +81,15 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 ![Road Map](https://smmo-wiki.com/assets/icons/book2.png) [Road Map](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)
 
 </div>
+<div class="xl:col-span-2 border-t border-neutral-800">
+
+#### Contribution
+
+We have open sourced our Wiki on GitHub. You can contribute by submitting a Pull Request.
+
+[View GitHub](https://github.com/ImY0mu/smmo-wiki-resources)
+
+</div>
 </div>
 
 
