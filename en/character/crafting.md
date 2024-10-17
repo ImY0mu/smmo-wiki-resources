@@ -1,7 +1,7 @@
 # Crafting
 
 
-## Introductioin
+## Introduction
 
 Crafting allows you to use the materials you find to create items, gain player exp and crafting exp.
 
