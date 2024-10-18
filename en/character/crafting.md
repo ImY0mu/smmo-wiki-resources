@@ -7,7 +7,7 @@ Crafting allows you to use the materials you find to create items, gain player e
 
 > [!Note]
 > You can craft up to 10 items at once.
-> The limit becomes 20 during the period in which the [membership](/wiki/character/membership?same_window=true) is active.
+> The limit becomes 20 during the period in which the [membership][1] is active.
 
 ## Location
 
@@ -15,17 +15,17 @@ Crafting can be found by clicking `Crafting` in the side bar.
 
 ## Materials
 
-You can find materials by stepping or [buying](/wiki/economy-and-trading/player-market?same_window=true) from other players.
+You can find materials by stepping or [buying][2] from other players.
 
 **Pro Tip:** The best location to find materials are: `Desert of Eternal Dreams` or `Arkhan`.
 
 ### Rarity
 
-Like every item in the game materials have different [rarities](/wiki/items/rarities?same_window=true) each requiring a different [skill](/wiki/character/skills?same_window=true) level to be obtained.
+Like every item in the game materials have different [rarities][3] each requiring a different [skill][4] level to be obtained.
 
 ## Crafting Levels
 
-Crafting let you craft all [rarities](/wiki/items/rarities?same_window=true) but you need to level your crafting skill to craft the rarest items.
+Crafting let you craft all [rarities][3] but you need to level your crafting skill to craft the rarest items.
 You can increase the crafting level by crafting.
 
 The exp needed for each level is calculated by `CRAFTING LEVEL * 50`.
@@ -34,8 +34,8 @@ The exp needed for each level is calculated by `CRAFTING LEVEL * 50`.
 ## Craft Tiers
 
 To craft you need materials and energy point.
-Crafting [rarer](/wiki/items/rarities?same_window=true) items you need a higher level of crafting skill.
-Each [rarity](/wiki/items/rarities?same_window=true) can be crafted by using same [rarity](/wiki/items/rarities?same_window=true) materials.
+Crafting [rarer][3] items you need a higher level of crafting skill.
+Each [rarity][3] can be crafted by using same [rarity][3] materials.
 
 | Rarity                   | Crafting Level Required  | Materials Required       | Energy Cost | Craft EXP gained |
 |--------------------------| :----------------------: | :----------------------: |:----------: | :--------------: |
@@ -85,3 +85,9 @@ Crafting has rewards for those who put in the effort to level it up.
 | **90**    | 5x Diamonds, 3x Gold Key                                       |
 | **95**    | 10x Diamonds, 5x Gold Key                                      |
 | **100**   | 50x Diamonds, 5x Gold Key, 30x Celestial Material (Untradable) |
+
+
+[1]:/wiki/character/membership?same_window=true
+[2]:/wiki/economy-and-trading/player-market?same_window=true
+[3]:/wiki/items/rarities?same_window=true
+[4]:/wiki/character/skills?same_window=true
