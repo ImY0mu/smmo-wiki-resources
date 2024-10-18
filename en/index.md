@@ -14,7 +14,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 #### Character
 ![Stats](https://smmo-wiki.com/assets/icons/strength.png) [Stats](/wiki/character/stats)\
 ![Skills](https://smmo-wiki.com/assets/icons/fishing.png) [Skills](/wiki/character/skills)\
-![Crafting](https://smmo-wiki.com/assets/icons/crafting.png) [Crafting](/wiki/character/membership)\
+![Crafting](https://smmo-wiki.com/assets/icons/crafting.png) [Crafting](/wiki/character/crafting)\
 ![Jobs](https://smmo-wiki.com/assets/icons/cooking.png) [Jobs](/wiki/character/skills)\
 ![Membership](https://smmo-wiki.com/assets/icons/membership.png) [Membership](/wiki/character/membership)
 
