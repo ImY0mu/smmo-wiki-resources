@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Battle Arena is PvE-oriented where you fight randomly generated NPCs relative to the location you are currently in to gain experience in exchange for a certain amount of gold and 1 energy point. Guild Experience can also be earned from the Battle Arena, which is covered more in the Guild guide.
+The Battle Arena is PvE-oriented where you fight randomly generated NPCs relative to the location you are currently in to gain experience in exchange for a certain amount of gold and 1 energy point. Guild Experience can also be earned from the Battle Arena, which is covered more in the [Guild](https://github.com/imy0mu/smmo-wiki-resources/blob/main/en/community-and-competition/guilds.md) guide.
 
 ## Location
 
