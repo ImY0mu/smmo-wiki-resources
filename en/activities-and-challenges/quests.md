@@ -8,6 +8,7 @@ Quests can be found by clicking `Quests` in the side bar.
 ## Knight
 The knight is an assignable person that spends quest points for you and gives back gold and experience with a tax. The knight can do any quest no matter the player's dexterity. The knight doesn't get boosted by the quest completion multiplier. The knight can level up according to the amount of experience it receives. Leveling up reduces the knight's taxes and makes the knight do quests quicker.
 ## Quest List
+**ALL GOLD VALUES ARE OUTDATED**
 |Icon|Level requirement|Name|Dexterity for 100% success rate|Completion amount|Gold|Experience|Description|Completion text|Failure text
 |---|---|---|---|---|---|---|-------|-------|---
 | ![icon](https://web.simple-mmo.com/img/icons/cat.png) | 1 | Save a cat | 8 | 10 | 5 | 10 | <details> <summary>Expand</summary>'A child's cat has got stuck at the top of a tree. You have been asked to help save it.'' | <details> <summary>Expand</summary>You climb up the tree and successfully manage to retrieve the cat. | <details> <summary>Expand</summary>You climb up the tree but your leg slips and you fall down. The cat becomes startled, jumps off the top of the tree and runs away. You can't even save a cat. You have no hope in this world.
