@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Gods are powerful entities that players can worship to receive boosts for 1 hour in exchange for an item with the [collectable](https://github.com/phong322010/smmo-wiki-resources/blob/main/en/items/collection.md) type. 
+Gods are powerful entities that players can worship to receive boosts for 1 hour in exchange for an item with the collectable type. 
 > [!Note]
-> You can only worship one god at a time every 24 hours or 12 hours if the [membership](https://github.com/phong322010/smmo-wiki-resources/blob/main/en/character/membership.md) is active.  
+> You can only worship one god at a time every 24 hours or 12 hours if the [membership](https://github.com/ImY0mu/smmo-wiki-resources/blob/main/en/character/membership.md) is active.  
 > The collectable required for worship are chosen randomly everyday and cannot exceed the rare rarity.
 
 ## Location
@@ -13,7 +13,7 @@ Gods can be found by clicking `Town` in the side bar and clicking on the `Temple
 
 ## Collectables
 
-You can find collectables by stepping or [buying](https://github.com/phong322010/smmo-wiki-resources/blob/main/en/economy-and-trading/player-market.md) from other players.
+You can find collectables by stepping or [buying](https://github.com/ImY0mu/smmo-wiki-resources/blob/main/en/economy-and-trading/player-market.md) from other players.
 
 ## Gods
 |      | Name | Boosts | Description |
