@@ -10,12 +10,12 @@ The Battle Arena can be found by clicking the Battle icon, and afterwards select
 
 ## Your Tier
 
-The Battle Arena is divided into 11 Tiers. Each tier has a certain Estimated EXP, EXP Modifier, Competion Requirement and Enemy Cost.
+The Battle Arena is divided into 11 Tiers. Each tier has a certain Estimated EXP, EXP Modifier, Competion Requirement and Enemy Cost. The enemy cost scales with your level until it hits the max enemy cost.
 
 > [!Note]
 > The Estimated EXP gained from Battle Arena is calculated using your current level and the EXP Modifier of the Tier you are in.
 
-| Tier                | EXP Modifier | Completion Requirement (NPCs) | Enemy Cost (Gold) |
+| Tier                | EXP Modifier | Completion Requirement (NPCs) | Max Enemy Cost (Gold) |
 |---------------------| :----------: |          :----------:         |    :----------:   |
 | **Copper League**   | 2.0          | 100                           | 1 000
 | **Bronze League**   | 2.2          | 225                           | 2 500
