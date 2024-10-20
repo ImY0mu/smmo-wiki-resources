@@ -2,13 +2,16 @@
 Testing, feel free to rewrite it.
 
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
 > [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+> Key information users need to know to achieve their goal.
 
 > [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
+> Urgent info that needs immediate user attention to avoid problems.
 
 > [!CAUTION]
-> Critical content demanding immediate user attention due to potential risks.
+> Advises about risks or negative outcomes of certain actions.
