@@ -44,6 +44,6 @@ Engaging in battle in SimpleMMO starts with generating an enemy. Keep in mind ea
 Congratulations! You've now mastered the basics of SimpleMMO. With just a few clicks, you can set your character on a path of adventure.
 
 ## What's next?
-Try checking out our [Skills](/wiki/character/skills?same_window=true) section to learn more about the skills you can develop in SimpleMMO.
+Try checking out our [Skills](/wiki/character/skills) section to learn more about the skills you can develop in SimpleMMO.
 
 To gain a better understanding of SimpleMMO's gameplay mechanics, we recommend exploring more sections of our wiki. If you face any challenges or have questions, our friendly community on the [Discord](https://discord.gg/SEQxubs) server is ready to help.
