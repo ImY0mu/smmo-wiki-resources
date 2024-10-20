@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Quests are repeatable tasks that gives gold and experience. Performing a quest requires 1 quest point and the success rate depends on your [dexterity](https://github.com/ImY0mu/smmo-wiki-resources/blob/main/en/character/stats.md). Quests unlock depending on your level and completing a quest gives an additional 0.5x multiplier to gold and experience in all quests. You can also use a knight to complete quests for you.
+Quests are repeatable tasks that gives gold and experience. Performing a quest requires 1 quest point and the success rate depends on your [dexterity](/wiki/character/stats.md). Quests unlock depending on your level and completing a quest gives an additional 0.5x multiplier to gold and experience in all quests. You can also use a knight to complete quests for you.
 ## Location
 Quests can be found by clicking `Quests` in the side bar.
 ## Knight
