@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Battle Arena is PvE-oriented where you fight randomly generated NPCs relative to the location you are currently in to gain experience in exchange for a certain amount of gold and 1 energy point. Guild Experience can also be earned from the Battle Arena, which is covered more in the [Guild](https://github.com/imy0mu/smmo-wiki-resources/blob/main/en/community-and-competition/guilds.md) guide.
+The Battle Arena is PvE-oriented where you fight randomly generated NPCs relative to the location you are currently in to gain experience in exchange for a certain amount of gold and 1 energy point. Guild Experience can also be earned from the Battle Arena, which is covered more in the [Guild](/wiki/community-and-competition/guilds) guide.
 
 ## Location
 
@@ -37,7 +37,7 @@ The Battle Arena is divided into 11 Tiers. Each tier has a certain Estimated EXP
 > You can always go back to lower tiers if you deem your tier's Enemy Cost too expensive, the Enemy Cost stays constant throughout your progression in the game.
 
 ## Awards
-Upon unlocking Titanium League, 7th Circle, Ragnarock, Mount Olymous, Rapture and Nirvana, you automatically get an [award](https://github.com/ImY0mu/smmo-wiki-resources/blob/main/en/other/awards.md) for each arena.
+Upon unlocking Titanium League, 7th Circle, Ragnarock, Mount Olymous, Rapture and Nirvana, you automatically get an [award](/wiki/other/awards.md) for each arena.
 
 <div class="table-container">
 
