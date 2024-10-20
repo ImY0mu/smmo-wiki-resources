@@ -15,6 +15,8 @@ The Battle Arena is divided into 11 Tiers. Each tier has a certain Estimated EXP
 > [!Note]
 > The Estimated EXP gained from Battle Arena is calculated using your current level and the EXP Modifier of the Tier you are in.
 
+<div class="table-container">
+
 |Icon| Tier                | EXP Modifier | Completion Requirement (NPCs) | Max Enemy Cost (Gold) |
 |---|---------------------| :----------: |          :----------:         |    :----------:   |
 |![icon](https://web.simple-mmo.com/img/icons/battlearena/1.png)| **Copper League**   | 2.0          | 100                           | 1 000
@@ -29,11 +31,16 @@ The Battle Arena is divided into 11 Tiers. Each tier has a certain Estimated EXP
 |![icon](https://web.simple-mmo.com/img/icons/one/icon174.png)| **Rapture**         | 5.5          | 6 000                         | 27 000
 |![icon](https://web.simple-mmo.com/img/icons/one/icon130.png)| **Nirvana**         | 6.0          | 7 500                         | 34 500
 
+</div>
+
 > [!Tip]
 > You can always go back to lower tiers if you deem your tier's Enemy Cost too expensive, the Enemy Cost stays constant throughout your progression in the game.
 
 ## Awards
 Upon unlocking Titanium League, 7th Circle, Ragnarock, Mount Olymous, Rapture and Nirvana, you automatically get an [award](https://github.com/ImY0mu/smmo-wiki-resources/blob/main/en/other/awards.md) for each arena.
+
+<div class="table-container">
+
 |Icon|Title|Description|Requirement|Rewards (Diamonds)
 |---|:---:|---------|---------|:---:
 |![icon](https://web.simple-mmo.com/img/icons/battlearena/6.png)|Made From Titanium|This player has reached the titanium league in the battle arena. |Reach the Titanium League in Battle Arena. |10|
@@ -43,16 +50,22 @@ Upon unlocking Titanium League, 7th Circle, Ragnarock, Mount Olymous, Rapture an
 |![icon](https://web.simple-mmo.com/img/icons/one/icon174.png)|Collapse of Civilisation|This player has battled in Rapture. |Reach Rapture in Battle Arena.|45|
 |![icon](https://web.simple-mmo.com/img/icons/one/icon130.png)|Entered Nirvana|This player has entered Nirvana. |Reach Nirvana in Battle Arena.|50
 
+</div>
+
 
 ## Tier Leaderboards
 
 Each Tier has its own Daily, Weekly, Monthly and All-time Leaderboards. The first three leaderboards refresh at the end of each of their periods and rewards are distributed. The table below showcases the Diamonds earned by the top 5 players in each Tier and Leaderboard.
+
+<div class="table-container">
 
 | Leaderboard | First | Second | Third | Fourth | Fifth |
 |-------------| :---: | :---:  | :---: |  :---: | :---: |
 | Daily       | 1     | 1      | 1     | 0      | 0     |
 | Weekly      | 10    | 5      | 3     | 0      | 0     |
 | Monthly     | 50    | 25     | 15    | 10     | 5     |
+
+</div>
 
 > [!Note]
 > Placement on each of the leaderboards at the same time is possible. **Eg.** You can win the Daily Leaderboard as well as the Weekly Leaderboard at the end of the reset period for both those periods if you place anywhere in the top 3 of both Leaderboards.
