@@ -5,7 +5,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 <div class="border-t border-neutral-800">
 
 #### Introduction
-![Getting Started](https://smmo-wiki.com/assets/icons/getting_started.png) [Getting Started](/wiki/introduction/getting-started)
+![Getting Started](https://smmo-wiki.com/assets/icons/menu/getting_started.png) [Getting Started](/wiki/introduction/getting-started)
 
 </div>
 
@@ -91,9 +91,9 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
   
 #### More
 
-![FAQs](https://smmo-wiki.com/assets/icons/menu/book2.png) [FAQs](/wiki/more/faqs)\
-![Game Rules](https://smmo-wiki.com/assets/icons/menu/book2.png) [Game Rules](/wiki/more/game-rules)\
-![Road Map](https://smmo-wiki.com/assets/icons/menu/book2.png) [Road Map](https://trello.com/b/XEzvjZVd/simplemmo-public-roadmap)
+![FAQs](https://smmo-wiki.com/assets/icons/menu/book3.png) [FAQs](/wiki/more/faqs)\
+![Game Rules](https://smmo-wiki.com/assets/icons/menu/book5.png) [Game Rules](/wiki/more/game-rules)\
+![Road Map](https://smmo-wiki.com/assets/icons/menu/road_map.png) [Road Map](https://trello.com/b/XEzvjZVd/simplemmo-public-roadmap)
 
 </div>
 <div class="xl:col-span-2 border-t border-neutral-800">
