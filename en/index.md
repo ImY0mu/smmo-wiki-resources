@@ -21,11 +21,25 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 </div>
 <div class="border-t border-neutral-800">
 
-#### Community and Competition
-![Discussion Boards](https://smmo-wiki.com/assets/icons/discussion_boards.png) [Discussion Boards](/wiki/community-and-competition/leaderboards)\
-![Leaderboards](https://smmo-wiki.com/assets/icons/leaderboards.png) [Leaderboards](/wiki/community-and-competition/leaderboards)\
-![Guilds](https://smmo-wiki.com/assets/icons/guilds.png) [Guilds](/wiki/community-and-competition/guilds)\
-![Orphanage](https://smmo-wiki.com/assets/icons/orphanage.png) [Orphanage](/wiki/community-and-competition/guilds)
+#### PvP and Competition
+![PvP](https://smmo-wiki.com/assets/icons/leaderboards.png) [PvP](/wiki/pvp-and-competition/pvp)\
+![Leaderboards](https://smmo-wiki.com/assets/icons/leaderboards.png) [Leaderboards](/wiki/pvp-and-competition/leaderboards)\
+![Guilds](https://smmo-wiki.com/assets/icons/guilds.png) [Guilds](/wiki/pvp-and-competition/guilds)\
+![Guild Wars](https://smmo-wiki.com/assets/icons/guilds.png) [Guild Wars](/wiki/pvp-and-competition/guild-wars)\
+![Bounties](https://smmo-wiki.com/assets/icons/leaderboards.png) [Bounties](/wiki/pvp-and-competition/bounties)
+
+
+</div>
+<div class="border-t border-neutral-800">
+  
+#### Community
+![Chat](https://smmo-wiki.com/assets/icons/orphanage.png) [Chat](/wiki/community/chat)\
+![Badges](https://smmo-wiki.com/assets/icons/orphanage.png) [Badges](/wiki/community-and-competition/badges)\
+![Discussion Boards](https://smmo-wiki.com/assets/icons/discussion_boards.png) [Discussion Boards](/wiki/community/discussion-boards)\
+![Orphanage](https://smmo-wiki.com/assets/icons/orphanage.png) [Orphanage](/wiki/community/orphanage)\
+![Community Challenges](https://smmo-wiki.com/assets/icons/orphanage.png) [Community Challenges](/wiki/community/community-challenges)\
+![Town Supply Requests](https://smmo-wiki.com/assets/icons/orphanage.png) [Town Supply Requests](/wiki/community/town-supply-requests)\
+![Vault](https://smmo-wiki.com/assets/icons/orphanage.png) [Vault](/wiki/community/vault)
 
 </div>
 <div class="border-t border-neutral-800">
