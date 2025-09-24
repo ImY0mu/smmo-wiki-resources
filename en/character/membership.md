@@ -2,14 +2,14 @@
 
 ## Introduction
 
-Membership is a monthly subscription service that support the developement of the game.
+Membership is a monthly subscription service that support the developement of the game. 
 
 > [!Note]
-> Membership can also be gifted to other player (Web App only)
+> Membership can also be gifted to other player (Web App only). You are unable to gift membership to a player who already has a subscription. 
 
 ## Location
 
-Crafting can be found by clicking `Diamond Store` in the side bar (Mobile) or in the top bar (Web App).
+Membership page can be found by clicking `Diamond Store` in the side bar (Mobile) or in the top bar (Web App).
 
 ## Benefits
 
@@ -17,9 +17,9 @@ Crafting can be found by clicking `Diamond Store` in the side bar (Mobile) or in
 | :--: | --- | --- |
 | ![icon](https://web.simple-mmo.com/img/icons/I_Diamond.png) | **20 diamonds on sign-up** | Receive 20 diamonds when you first become a plebeian  |
 | ![icon](https://web.simple-mmo.com/img/icons/I_Diamond.png) | **40 diamonds every month** | Get 40 diamonds on the 15th of every month |
-| ![icon](https://web.simple-mmo.com/img/icons/S_Shadow07.png) | **10 more jobs** | You can perform 10 more job sessions | 
+| ![icon](https://web.simple-mmo.com/img/icons/S_Shadow07.png) | **Faster Quest Auto-Perform** | Perform a quest every 5 seconds instead of 10 | 
 | ![icon](https://web.simple-mmo.com/img/icons/S_Holy01.png) | **10% HP every 5 minutes** | Get 10% HP every 5 minutes instead of 5% |
-| ![icon](https://web.simple-mmo.com/img/icons/I_C_Mushroom.png) | **150 mushrooms per day**| Eat up 150 mushrooms per day instead of 110 |
+| ![icon](https://web.simple-mmo.com/img/icons/I_C_Mushroom.png) | **180 mushrooms per day**| Eat up 180 mushrooms per day instead of 125 |
 | ![icon](https://web.simple-mmo.com/img/icons/S_Ice06.png) | **Badge beside your name** | Your username will have a badge beside it so everyone can see that you are a glorius pleb |
 | ![icon](https://web.simple-mmo.com/img/icons/S_Shadow15.png) | **Player Notes** | Add notes on players profiles that only you can see |
 | ![icon](https://web.simple-mmo.com/img/icons/W_Book02.png) | **7 Tasks Per Day** | Get 7 tasks per day instead of 5. You will still only need to complete 5 to get the reward chest |
