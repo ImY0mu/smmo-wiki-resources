@@ -16,7 +16,8 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 ![Skills](https://smmo-wiki.com/assets/icons/menu/fishing.png) [Skills](/wiki/character/skills)\
 ![Crafting](https://smmo-wiki.com/assets/icons/menu/crafting.png) [Crafting](/wiki/character/crafting)\
 ![Professions](https://smmo-wiki.com/assets/icons/menu/cooking.png) [Professions](/wiki/character/professions)\
-![Membership](https://smmo-wiki.com/assets/icons/menu/membership.png) [Membership](/wiki/character/membership)
+![Membership](https://smmo-wiki.com/assets/icons/menu/membership.png) [Membership](/wiki/character/membership)\
+![Avatar](https://smmo-wiki.com/assets/icons/menu/membership.png) [Avatar](/wiki/character/avatar)
 
 </div>
 <div class="border-t border-neutral-800">
@@ -34,7 +35,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
   
 #### Community
 ![Chat](https://smmo-wiki.com/assets/icons/menu/chat.png) [Chat](/wiki/community/chat)\
-![Badges](https://smmo-wiki.com/assets/icons/menu/badges.png) [Badges](/wiki/community-and-competition/badges)\
+![Badges](https://smmo-wiki.com/assets/icons/menu/badges.png) [Badges](/wiki/community/badges)\
 ![Discussion Boards](https://smmo-wiki.com/assets/icons/menu/discussion_boards.png) [Discussion Boards](/wiki/community/discussion-boards)\
 ![Orphanage](https://smmo-wiki.com/assets/icons/menu/orphanage.png) [Orphanage](/wiki/community/orphanage)\
 ![Community Challenges](https://smmo-wiki.com/assets/icons/menu/community_challenges.png) [Community Challenges](/wiki/community/community-challenges)\
