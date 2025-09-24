@@ -2,11 +2,17 @@
 
 
 ## Introduction
-Quests are repeatable tasks that gives gold and experience. Performing a quest requires 1 quest point and the success rate depends on your [dexterity](/wiki/character/stats.md). Quests unlock depending on your level and completing a quest gives an additional 0.5x multiplier to gold and experience in all quests. You can also use a knight to complete quests for you.
+Quests are repeatable tasks that gives gold and experience. Performing a quest requires 1 quest point and the success rate depends on your [dexterity](/wiki/character/stats.md). Quests unlock depending on your level and completing a quest gives an additional 0.5% multiplier to gold and experience in all quests. You can also use a knight to complete quests for you.
+
 ## Location
-Quests can be found by clicking `Quests` in the side bar.
-## Knight
-The knight is an assignable person that spends quest points for you and gives back gold and experience with a tax. The knight can do any quest no matter the player's dexterity. The knight doesn't get boosted by the quest completion multiplier. The knight can level up according to the amount of experience it receives. Leveling up reduces the knight's taxes and makes the knight do quests quicker.
+Quests can be found by clicking `Quests` in the side bar on desktop, or on the bottom menu in the mobile version of SimpleMMO.
+
+## Auto-Perform and Multiple Clicks
+**Auto-Perform** is a quest feature which allows the player to perform a quest every 5/10 seconds depending on [membership](/wiki/character/membership.md). The feature is only available with the quest window active. Auto-Perform only uses 1 Quest Point at a time, and is not able to be used when a [profession](wiki/character/professions/md) is active. Quest completion bonuses apply to Auto-Perform Quest Points. Once the user has depleted all their Quest Points, Auto-Perform will stop. 
+
+**Multiple Click** feature allows a user to consume multiple QP every time the perform button is clicked. The feature is only unlocked for 10 minutes upon unlocking. To be able to use the feature, the user must perform 25 quests for 2X clicks, and 200 quests for 3X clicks. Due to this, Players with insufficient Quest Points may not be able to access the feature.
+
+
 ## Quest List
 **ALL GOLD VALUES ARE OUTDATED**
 
@@ -131,3 +137,8 @@ The knight is an assignable person that spends quest points for you and gives ba
                                                                                                                                                                                                                                                                                                                     
                                                                                                                                                                                                                                                                                                                     
 </div>
+
+## Knight (Outdated Feature)
+The knight is an assignable person that spends quest points for you and gives back gold and experience with a tax. The knight can do any quest no matter the player's dexterity. The knight doesn't get boosted by the quest completion multiplier. The knight can level up according to the amount of experience it receives. Leveling up reduces the knight's taxes and makes the knight do quests quicker. As of Version 12.51.1, the Knight has been retired. The EXP, gold, and level of the Knight is still available for view on the `Quests` page, although the player is unable to change its avatar or name. 
+
+
