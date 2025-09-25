@@ -17,7 +17,9 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 ![Crafting](https://smmo-wiki.com/assets/icons/menu/crafting.png) [Crafting](/character/crafting)\
 ![Professions](https://smmo-wiki.com/assets/icons/menu/cooking.png) [Professions](/character/professions)\
 ![Membership](https://smmo-wiki.com/assets/icons/menu/membership.png) [Membership](/character/membership)\
-![Avatar](https://smmo-wiki.com/assets/icons/menu/avatar.png) [Avatar](/character/avatar)
+![Avatar](https://smmo-wiki.com/assets/icons/menu/avatar.png) [Avatar](/character/avatar)\
+![Legacy](https://smmo-wiki.com/assets/icons/menu/legacy.png) [Legacy](/character/legacy)
+
 
 </div>
 <div class="border-t border-neutral-800">
