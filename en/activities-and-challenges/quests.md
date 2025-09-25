@@ -8,7 +8,7 @@ Quests are repeatable tasks that gives gold and experience. Performing a quest r
 Quests can be found by clicking `Quests` in the side bar on desktop, or on the bottom menu in the mobile version of SimpleMMO.
 
 ## Auto-Perform and Multiple Clicks
-**Auto-Perform** is a quest feature which allows the player to perform a quest every 5/10 seconds depending on [membership](/wiki/character/membership.md). The feature is only available with the quest window active. Auto-Perform only uses 1 Quest Point at a time, and is not able to be used when a [profession](wiki/character/professions/md) is active. Quest completion bonuses apply to Auto-Perform Quest Points. Once the user has depleted all their Quest Points, Auto-Perform will stop. 
+**Auto-Perform** is a quest feature which allows the player to perform a quest every 5/10 seconds depending on [membership](/wiki/character/membership.md). The feature is only available with the quest window active. Auto-Perform only uses 1 Quest Point at a time, and is not able to be used when a [profession](wiki/character/professions/md) is active. Quest completion bonuses apply to Auto-Perform Quest Points. Once the user has depleted all their Quest Points, Auto-Perform will stop. Quests performed by Auto-Perform will contribute to Questing [tasks](wiki/activities-and-challenges/tasks.md).
 
 **Multiple Click** feature allows a user to consume multiple QP every time the perform button is clicked. The feature is only unlocked for 10 minutes upon unlocking. To be able to use the feature, the user must perform 25 quests for 2X clicks, and 200 quests for 3X clicks. Due to this, Players with insufficient Quest Points may not be able to access the feature.
 
