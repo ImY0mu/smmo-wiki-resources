@@ -9,7 +9,7 @@ For each step, the travel screen will have a chance to show different possible e
 
 For each step there is a chance for the player to recieve an amount of gold or EXP.
 
-All steps are followed by a cooldown on the step button, which can range from X-X seconds. 
+All steps are followed by a cooldown on the step button, which can range from 4-9 seconds (hardcap is 3.5 seconds with active effects). 
 
 There are different possible events that may occur when stepping:
 - Travel text; "*You take a step...*"
