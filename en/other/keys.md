@@ -7,7 +7,7 @@ Gold keys can be acquired through the `Diamond Store`. Bronze and silver keys ca
 You may exchange 4 bronze keys to 1 silver key in `Mahol's hut`.
 
 ![icon](https://web.simple-mmo.com/img/icons/I_Key03.png) Gold Key
-- Each key costs 3 Diamonds each - Price can vary when game sale is active
+- Each key costs 4 Diamonds - Price can vary when game sale is active
 
 ![icon](https://web.simple-mmo.com/img/icons/I_Key02.png) Silver Key
 - Starting price:  50,000 per key.
