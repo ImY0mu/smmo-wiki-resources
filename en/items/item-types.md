@@ -49,8 +49,8 @@ All equipment can grant a variation of the following [stats][1] on Strength, Def
 > The resource gathered are known as Materials which are used in [crafting][5] recipes.
 
 
-[1]:/wiki/character/stats
-[2]:/wiki/character/avatar
-[3]:/wiki/items/collection
-[4]:/wiki/other/keys
-[5]:/wiki/character/crafting
+[1]:/character/stats
+[2]:/character/avatar
+[3]:/items/collection
+[4]:/other/keys
+[5]:/character/crafting
