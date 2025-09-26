@@ -32,4 +32,4 @@ You may exchange 4 bronze keys to 1 silver key in `Mahol's hut`.
 
 
 
-[1]:/wiki/character/crafting
+[1]:/character/crafting
