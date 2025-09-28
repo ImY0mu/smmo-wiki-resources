@@ -22,7 +22,7 @@ Here's a breakdown of the pricing structure:
 ## Diamond Store
 The Diamond Store is where players go to enhance their experience by boosting stats, customising your profile, or unlocking exclusive items. It brings together everything from purchasing diamonds to reviewing your spending history, with plenty of options for progression and personalisation.
 
-### Sale on Store
+### Sale on Diamonds, Boosts and Upgrades
 Sales come in different forms, including discounts on diamond purchases and reduced prices for boosts and upgrades. These offers may be single or double sales depending on the occasion.
 
 They can appear at various times throughout the year, but one of the most consistent and long-running examples is the Black Friday sale in November, which often features extended discounts and generous offers.
