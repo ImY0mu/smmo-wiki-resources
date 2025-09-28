@@ -1,8 +1,8 @@
-# Diamond Market
-The Diamond Market is where players go to enhance their experience by boosting stats, customising your profile, or unlocking exclusive items. It brings together everything from purchasing diamonds to reviewing your spending history, with plenty of options for progression and personalisation.
+# Diamonds
+Diamonds are the premium currency in the game and can be purchased using real money. Once acquired, they can be spent on a wide range of upgrades, cosmetics, and utility items.
 
 ## Buying Diamonds
-Diamonds are the premium currency in the game and can be purchased using real money. Once acquired, they can be spent on a wide range of upgrades, cosmetics, and utility items.
+You can buy diamonds via Android App (not iOS) and [Web app][3]. Prices do vary and it is cheaper to buy via Web app.
 
 ### Diamond Pricing Tiers
 Players can choose from diamond bundles, each offering different price points and bulk discounts. 
@@ -18,6 +18,9 @@ Here's a breakdown of the pricing structure:
 | 600–799          | $60.00 – $79.90 | $0.10            |
 | 800–999          | $76.00 – $94.90 | $0.095           |
 | 1000+            | $90.00+         | $0.09            |
+
+## Diamond Market
+The Diamond Market is where players go to enhance their experience by boosting stats, customising your profile, or unlocking exclusive items. It brings together everything from purchasing diamonds to reviewing your spending history, with plenty of options for progression and personalisation.
 
 ### Sale on Market
 Sales come in different forms, including discounts on diamond purchases and reduced prices for boosts and upgrades. These offers may be single or double sales depending on the occasion.
@@ -87,4 +90,5 @@ Reward and Upgrade History - See how diamonds were spent across boosts, upgrades
 
 [1]:/character/membership
 [2]:other/keys
+[3]:https://web.simple-mmo.com/diamondstore/diamonds
 
