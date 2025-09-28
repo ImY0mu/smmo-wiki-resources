@@ -24,7 +24,7 @@ You may exchange 4 bronze keys to 1 silver key in `Mahol's hut`.
 
 ### Drop Rates
 
-<div class="responsive-table">
+<div class="table-container">
   
 | Chest Type       | Common | Uncommon | Rare  | Epic  | Elite | Legendary | Celestial | Exotic |
 |------------------|:------:|:--------:|:-----:|:-----:|:-----:|:---------:|:---------:|:------:|
