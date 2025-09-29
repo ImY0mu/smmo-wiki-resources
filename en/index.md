@@ -78,7 +78,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 ![Player Market](https://smmo-wiki.com/assets/icons/menu/coins.png) [Player Market](/economy-and-trading/player-market)\
 ![Item Shop](https://smmo-wiki.com/assets/icons/menu/gold.png) [Item Shop](/economy-and-trading/item-shop)\
 ![Trading](https://smmo-wiki.com/assets/icons/menu/trading.png) [Trading](/economy-and-trading/trading)\
-![Diamond Market](https://smmo-wiki.com/assets/icons/menu/diamond.png) [Diamond Market](/economy-and-trading/diamond-market)
+![Diamonds](https://smmo-wiki.com/assets/icons/menu/diamond.png) [Diamonds](/economy-and-trading/diamonds)
 
 </div>
 <div class="border-t border-neutral-800">
