@@ -37,5 +37,5 @@ For efficiency, include the following details if you are holding an auction:
 
 **Roleplay** is as it says, for roleplaying.
 
-**Games and Competitions** is where players may host their own games, raffles and giveaways. 
+**Games and Competitions** is where players may host their own games and giveaways. 
 
