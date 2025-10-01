@@ -67,11 +67,11 @@ NPC shops have set prices and become available as you level. They often have che
 | Scalpel of Death | Weapon | str +130 | 35,000 |  
 
 </div>
-
-<div class="table-container">
   
 ### Mikels Beasts *(Davenport only)*  
 
+<div class="table-container">
+  
 | Item | Type | Effect | Price |  
 | --- | --- | --- | --- |  
 | Zombie | Pet | def +20 | 80,000 |  
