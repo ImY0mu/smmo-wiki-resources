@@ -57,12 +57,16 @@ NPC shops have set prices and become available as you level. They often have che
 
 ### Mysterious Shop *(unlocks at Lv25)*  
 
+<div class="table-container">
+
 | Item | Type | Description | Price |  
 | --- | --- | --- | --- |  
 | The Hamburger | Weapon | str +210 | 50,000 |  
 | The Nokia | Armor | def +180 | 130,000 |  
 | The Great Wall of China | Armor | def +180 | 150,000 |  
 | Scalpel of Death | Weapon | str +130 | 35,000 |  
+
+</div>
 
 <div class="table-container">
   
