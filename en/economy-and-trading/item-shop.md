@@ -20,6 +20,8 @@ NPC shops have set prices and become available as you level. They often have che
 
 ### Caspers Emporium *(Holbeck & Davenport)*  
 
+<div class="table-container">
+
 | Item | Type | Description | Price |  
 | --- | --- | --- | --- |  
 | Sword for Sloths | Weapon | str +35 | 500 |  
@@ -28,6 +30,8 @@ NPC shops have set prices and become available as you level. They often have che
 | Hatreds Bite | Weapon | str +90 | 2,500 |  
 | Ivory Chestplate | Armor | def +25 | 2,300 |  
 | Fire Plate | Armor | def +60 | 2,700 |  
+
+</div>
 
 ### Ronwarus Fruit and Veg Shop 
 
