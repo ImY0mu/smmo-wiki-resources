@@ -6,6 +6,8 @@ NPC shops have set prices and become available as you level. They often have che
 
 ### Jack’s Starter Shop *(Simpletopia only)*  
 
+<div class="table-container">
+  
 | Item | Type | Description | Price |  
 | --- | --- | --- | --- |  
 | Simple Dagger | Weapon | str +2 | 70 |  
@@ -13,6 +15,8 @@ NPC shops have set prices and become available as you level. They often have che
 | Some Geezers Bow | Weapon | str +17 | 400 |  
 | Leather Armour | Armor | def +16 | 700 |  
 | Generic Shirt | Armor | def +11 | 600 |  
+
+</div>
 
 ### Caspers Emporium *(Holbeck & Davenport)*  
 
@@ -27,6 +31,8 @@ NPC shops have set prices and become available as you level. They often have che
 
 ### Ronwarus Fruit and Veg Shop 
 
+<div class="table-container">
+  
 | Item | Type | Effect | Price |  
 | --- | --- | --- | --- |  
 | Cheese | Food | +7 hp | 200 |  
@@ -35,13 +41,19 @@ NPC shops have set prices and become available as you level. They often have che
 | Mushroom of Energy | Food | +1 ep | 30,000 |  
 | Delicious Pie | Food | +100 hp | 800 | 
 
+</div>
+
 ### Sojas Pet Shop *(Simpletopia only)*  
 
+<div class="table-container">
+  
 | Item | Type | Effect | Price |  
 | --- | --- | --- | --- |  
 | Rat | Pet | str +5 | 2,000 |  
 | Boar | Pet | str +45 | 15,000 |  
 | Golem | Pet | str +70 | 100,000 |  
+
+</div>
 
 ### Mysterious Shop *(unlocks at Lv25)*  
 
@@ -52,6 +64,8 @@ NPC shops have set prices and become available as you level. They often have che
 | The Great Wall of China | Armor | def +180 | 150,000 |  
 | Scalpel of Death | Weapon | str +130 | 35,000 |  
 
+<div class="table-container">
+  
 ### Mikels Beasts *(Davenport only)*  
 
 | Item | Type | Effect | Price |  
@@ -60,7 +74,11 @@ NPC shops have set prices and become available as you level. They often have che
 | Captain Camel | Pet | def +135 | 600,000 |  
 | Unicorn | Pet | str +150 | 1,200,000 | 
 
+</div>
+
 ### Crazy Merchant *(Underworld only)*  
+
+<div class="table-container">
 
 | Item | Type | Description | Price |  
 | --- | --- | --- | --- |  
@@ -69,7 +87,11 @@ NPC shops have set prices and become available as you level. They often have che
 | Juicy Mulberry | Food | hp +2000 | 8,500 |  
 | A Strange Pie | Food | hp +6500 | 20,000 |  
 
+</div>
+
 ### Tom’s Tools  
+
+<div class="table-container">
 
 | Item | Type | Rarity | Description | Price |  
 | --- | --- | --- | --- | --- |  
@@ -93,3 +115,5 @@ NPC shops have set prices and become available as you level. They often have che
 | Strong Pickaxe | Pickaxe | Rare | Finds 3 materials | 150,000 |  
 | Viking Pickaxe | Pickaxe | Elite | Finds 4 materials | 2,500,000 |  
 | Super Duper Pickaxe | Pickaxe | Epic | Finds 5 materials | 15,000,000 |  
+
+</div>
