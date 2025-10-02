@@ -6,6 +6,8 @@ You can add items to your collection by going into your inventory, selecting an 
 
 ## Avatar Collection  
 
+<div class="table-container">
+
 | Amount | Diamond | Gold  | Exp  | Award                          |  
 | ------ | -------- | ----- | ---- | ------------------------------ |  
 | 15     | 5        | 10k   | 30x  | None                           |  
@@ -14,7 +16,11 @@ You can add items to your collection by going into your inventory, selecting an 
 | 60     | 50       | 100k  | 60x  | Avatar Enthusiast              |  
 | 120    | 100      | 100k  | 85x  | Avatar: The Last Simpletopian  |  
 
+</div>
+
 ## Collectible Collection  
+
+<div class="table-container">
 
 | Amount | Diamond | Gold  | Exp  | Award              |  
 | ------ | -------- | ----- | ---- | ------------------ |  
@@ -22,7 +28,11 @@ You can add items to your collection by going into your inventory, selecting an 
 | 25     | 15       | 50k   | 30x  | None               |  
 | 60     | 40       | 100k  | 50x  | Big up number 60   |  
 
+</div>
+
 ## Sprite Collection  
+
+<div class="table-container">
 
 | Amount | Diamond | Gold  | Exp  |  
 | ------ | -------- | ----- | ---- |  
@@ -35,10 +45,16 @@ You can add items to your collection by going into your inventory, selecting an 
 | 280    | 75       | 100k  |      |  
 | 390    | 100      | 100k  |      |  
 
+</div>
+
 ## Miscellaneous Collection  
+
+<div class="table-container">
 
 | Amount | Diamond | Gold  | Exp  |  
 | ------ | -------- | ----- | ---- |  
 | 100    | 5        | 10k   | 40x  |  
 | 1000   | 10       | 50k   | 50x  |  
 | 10000  | 20       | 100k  | 60x  |  
+
+</div>
