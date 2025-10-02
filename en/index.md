@@ -49,7 +49,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 
 #### Lore
 ![The World](https://smmo-wiki.com/assets/icons/menu/world.png) [The World](/lore/the-world)\
-![Gods](https://smmo-wiki.com/assets/icons/menu/gods.png) [Gods](/lore/the-world)\
+![Gods](https://smmo-wiki.com/assets/icons/menu/gods.png) [Gods](/lore/gods)\
 ![Notable Characters](https://smmo-wiki.com/assets/icons/menu/mahol.png) [Notable Characters](/lore/notable-characters)
 
 </div>
