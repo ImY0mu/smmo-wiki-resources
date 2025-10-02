@@ -16,6 +16,9 @@ Gods can be found by clicking `Town` in the side bar and clicking on the `Temple
 You can find collectables by stepping or [buying](https://github.com/ImY0mu/smmo-wiki-resources/blob/main/en/economy-and-trading/player-market.md) from other players.
 
 ## Gods
+
+<div class="table-container">
+  
 |      | Name | Boosts | Description |
 | :--: | --- | --- | --- |
 | ![icon](https://web.simple-mmo.com/img/sprites/premium/gods/mortem.png) | **Mortem** | **20%** bonus to attack| The god of death|
@@ -24,3 +27,5 @@ You can find collectables by stepping or [buying](https://github.com/ImY0mu/smmo
 | ![icon](https://web.simple-mmo.com/img/sprites/premium/gods/zimos.png) | **Zimos** | **Nothing** | The god of nothing|
 | ![icon](https://web.simple-mmo.com/img/sprites/premium/gods/olo.png) | **O'lo** | **20%** bonus to dexterity| The god of wisdom|
 | ![icon](https://web.simple-mmo.com/img/sprites/premium/gods/balthazar.png) | **Balthazar** | **+15%** faster stepping| King of the gods|
+
+<div class="table-container">
