@@ -6,7 +6,7 @@ In SimpleMMO, each character is described by three main stats: strength (str); d
 
 ### Levelling Up
 
-Each time a player Levels up in SimpleMMO they will recieve 2 stat points. These can be distributed into your player stats . 
+Each time a player Levels up in SimpleMMO they will recieve 2 stat points. These can be distributed into your player stats by Pressing View Character . 
 
 ### Gear
 
