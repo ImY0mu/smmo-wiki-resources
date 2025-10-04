@@ -4,6 +4,14 @@
 
 In SimpleMMO, each character is described by three main stats: strength (str); defence (def); and dexterity (dex). During combat, the two combating characters’ stats are compared in a series of calculations. The game then rolls for damage dealt based on the outcome of these calculations. Additionally, dex alone is used to determine the chance of completing a [quest](https://simplemmo.fandom.com/wiki/Quests). Stats can be boosted by leveling up, purchasing gear, and having a job with a stat bonus.
 
+### Levelling Up
+
+Each time a player Levels up in SimpleMMO they will recieve 2 stat points. These can be distributed into your player stats . 
+
+### Gear
+
+You can use Gear to boost your stats by a large amount. Gear comes in Diffrent Rarities and each Gear will provide the player with diffrent Stats.
+
 ## Combat Mechanics
 
 ### Definitions
@@ -23,4 +31,6 @@ These values are the sum of the characters base stats (as shown in their profile
 	- In practice, this function is rounded to the nearest whole number and floored at 20
 - Min <sub>ab</sub> (str <sub>a</sub>, def <sub>b</sub>) = str\_a - (11/9)\*def <sub>b</sub>
 	- In practice, this function is rounded to the nearest whole number and floored at 1
+
+
 
