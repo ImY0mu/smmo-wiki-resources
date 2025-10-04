@@ -10,7 +10,7 @@ Player will recieve 2 stat points for every level up. These can be applied to yo
 
 ### Equipment
 
-You can use [equipment][1] to boost your stats by a large amount. Equipment comes in diffrent [rarities][2] and they all provide diffrent stats.
+You can use [equipment][1] to boost your stats by a large amount. Equipment comes in diffrent [rarities][2] and they all provide different stats.
 
 ## Combat Mechanics
 
