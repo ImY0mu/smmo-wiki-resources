@@ -8,6 +8,9 @@ In order to qualify for the experience and items of the Boss, you will need to h
 
 Bosses can be attacked by players as long as the Boss has at least 5% health remaining, and the player must not be on 0HP. Using a `special attack` on a World Boss does not consume any `Energy Points`. You are still able to participate in killing a World Boss even if you have an ongoing [profession][1].
 
+> [!TIP]
+> Bind a food item to be able to heal without leaving the World Boss screen.
+
 ## God World Bosses
 
 1 God World Boss and 12 normal World Bosses are generated every week. A God World Boss gives you three times the rewards and three times the chance of recieving a celestial or exotic item drop.
