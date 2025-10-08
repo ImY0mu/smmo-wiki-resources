@@ -48,6 +48,7 @@ Collectable and item collections have 2 types; unique and total chests. When an 
 There are some items which cannot be collected, including customised items, materials, tools, keys, potions, treasure chests and books. Items which are available from NPC stores also cannot be collected, with the exception of collectables bought from the Crazy Merchant [NPC store][2] in The Underworld Location.
 
 **Unique Collectables Chests**
+
 <div class="table-container">
 
 | Amount Required | Diamond | Gold  | Exp Amount  | Award  | Icon  |  
@@ -59,7 +60,10 @@ There are some items which cannot be collected, including customised items, mate
 | 140    | 60       | 200k  |  65 | Master of Collection   |  ![icon](https://web.simple-mmo.com/img/icons/one/icon238.png)  |
 | 170    | 70       | 250k  |  70 | Obsessed |    ![icon](https://web.simple-mmo.com/img/icons/one/icon239.png)  |
 
+</div>
+
 **Unique Items Chests**
+
 <div class="table-container">
 
 | Amount Required | Diamond | Gold  | Exp Amount  | Award  | Icon  |  
@@ -69,7 +73,10 @@ There are some items which cannot be collected, including customised items, mate
 | 250    | 40       | 100k  |  40 | None |   
 | 500     | 80       | 100k  |  60 | Ol' Collector |  ![icon](https://web.simple-mmo.com/img/icons/one/icon258.png)   |  
 
+</div>
+
 **Total Collectables Chests**
+
 <div class="table-container">
 
 | Amount Required | Diamond | Gold  | Exp Amount  | Award  | Icon |  
@@ -84,6 +91,7 @@ There are some items which cannot be collected, including customised items, mate
 </div>
 
 **Total Items Chests**
+
 <div class="table-container">
 
 | Amount Required | Diamond | Gold  | Exp Amount  | Award  | Icon |  
@@ -103,6 +111,7 @@ There are some items which cannot be collected, including customised items, mate
 Sprites are cosmetic items which can be used to be applied to give other items a different look. To use an in-game (non-custom) sprite, it must first be collected. Duplicate sprites cannot be collected. 
 
 **Sprite Chests**
+
 <div class="table-container">
 
 | Amount Required | Diamond | Gold  | Exp Amount  | Award  | Icon |  
@@ -155,6 +164,9 @@ NPCs can be 'collected' in your collection by killing the NPC, either through th
 Currently, some event locations are no longer available so not all NPCs are obtainable. 
 
 **NPC Chests**
+
+<div class="table-container">
+  
 | Amount Required | Diamond | Gold  | Exp Amount  |
 | ------ | -------- | ----- | ---- |
 | 25     |  5  | 10k   |  30  |  
