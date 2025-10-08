@@ -171,7 +171,6 @@ The events collectable tab features event specific collectable items.
 The current only collectibles for this section are treasure maps from the *Lore of the Land 2025* event. 
 
 
-## NPC Collection 
 [1]:/character/avatar
 [2]:/economy-and-trading/item-shop
 [3]:/activities-and-challenges/battle-arena
