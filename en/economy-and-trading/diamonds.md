@@ -9,6 +9,8 @@ Players can choose from diamond bundles, each offering different price points an
 
 Here's a breakdown of the pricing structure:
 
+<div class="table-container">
+
 | Diamond Quantity | Price Range     | Cost per Diamond |
 |------------------|-----------------|------------------|
 | 1–99             | $0.17 – $16.83  | $0.17            |
@@ -18,6 +20,8 @@ Here's a breakdown of the pricing structure:
 | 600–799          | $60.00 – $79.90 | $0.10            |
 | 800–999          | $76.00 – $94.90 | $0.095           |
 | 1000+            | $90.00+         | $0.09            |
+
+</div>
 
 ## Diamond Store
 The Diamond Store is where players go to enhance their experience by boosting stats, customising your profile, or unlocking exclusive items. It brings together everything from purchasing diamonds to reviewing your spending history, with plenty of options for progression and personalisation.
@@ -40,6 +44,8 @@ A monthly subscription service that supports the developement of the game reward
 ### Boosts and Upgrades
 Diamonds can be spent on a variety of boosts that improve gameplay efficiency and unlock premium features.
 
+<div class="table-container">
+  
 | Icon | Item                             | Cost       | Description |
 |------|----------------------------------|------------|-------------|
 | ![icon](https://web.simple-mmo.com/img/sprites/premium/exclusive85.gif)        | Animated Avatar                  | 200        | Change your avatar to your very own animated sprite. Please know that you must provide your own avatar and it essential to have full permission of using the sprite on the game. The sprite must be a consistent art style with the current avatars in-game in order to be approved. The sprite file size must be lower than 80kb. The maximum size for an animated avatar is 52 x 52. |
@@ -67,6 +73,8 @@ Diamonds can be spent on a variety of boosts that improve gameplay efficiency an
 | ![icon](https://web.simple-mmo.com/img/icons/one/icon377.png)                  | Library Book                     | 35         | Buy a book from the library. |
 | ![icon](https://web.simple-mmo.com/img/icons/one/icon819.png)                  | Rename Collected Avatar          | 30         | Collected custom avatar but forgot to rename it? Do it now! |
 | ![icon](https://web.simple-mmo.com/img/icons/two/32px/Feather_32.png)          | Animated Gradient username       | 250        | Be unique and stand out in the world of SMMO and change the colour of your username. |
+
+</div>
 
 ### Sprites and Custom Items
 Players can purchase static and animated sprites to create custom items. These are used for personalising weapons, avatars, and collectibles.
