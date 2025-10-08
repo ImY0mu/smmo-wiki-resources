@@ -9,6 +9,9 @@ Awards are a set of achivements in game which may reward diamonds to the player 
 
 
 ## Awards List
+
+<div class="table-container">
+  
 | Icon                                                                    | Name                          | Condition                                                       | Reward |
 |-------------------------------------------------------------------------|-------------------------------|:---------------------------------------------------------------:|:------:|
 | ![icon]() | Baby Steps                    | Take 100 steps                                                  |        |
@@ -87,4 +90,4 @@ Awards are a set of achivements in game which may reward diamonds to the player 
 | ![icon](https://web.simple-mmo.com/img/icons/one/icon371.png)           | Spokesperson                  | Post 2,000 replies in the discussion board                      | 35     |
 | ![icon](https://web.simple-mmo.com/img/icons/one/icon377.png)           | Beloved Writer                | Publish a book with over 50 stars                               | 25     |
 
-
+</div>
