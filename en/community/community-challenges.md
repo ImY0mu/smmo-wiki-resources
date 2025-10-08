@@ -8,6 +8,8 @@ When the Community Challenge goal is achieved you are able to activate the buff 
 
 ## Challenge Types
 
+<div class="table-container">
+
 | Type                     | Minimum Goal | Maximum Goal |
 |--------------------------|:------------:|:------------:|
 | **Player Kills**         | 100,000      | 200,000      |
@@ -16,6 +18,8 @@ When the Community Challenge goal is achieved you are able to activate the buff 
 | **Steps Taken**          | 300,000      | 500,000      |
 | **Items Sold**           | 200,000      | 350,000      |
 | **Items Collected**      | 50,000       | 150,000      |
+
+</div>
 
 ## Rewards
 
