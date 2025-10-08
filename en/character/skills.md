@@ -6,6 +6,8 @@ Material locations may be found while traveling, and will allow gathering of a r
 
 ## Woodcutting
 
+<div class="table-container">
+  
 | Tool                   | Rarity     |
 | ----------------------- | ---------- |
 | Rusty Axe              | Common     |
@@ -15,6 +17,10 @@ Material locations may be found while traveling, and will allow gathering of a r
 | Almost Legendary Axe   | Epic       |
 | Axe of the Gods        | Legendary  |
 | Stop Looking At My Axe | Celestial  |
+
+</div>
+
+<div class="table-container">
 
 | Location          | Skill Level | Rarity     | Material          | EXP     |
 | ----------------- | ----------- | ---------- | ----------------- | ------- |
@@ -26,10 +32,14 @@ Material locations may be found while traveling, and will allow gathering of a r
 | White Spruce Tree | 70          | Epic       | White Spruce Wood | ?       |
 | Banyon Tree       | 100         | Legendary  | Banyon Wood       | ?       |
 
+</div>
+
 ---
 
 ## Mining
 
+<div class="table-container">
+  
 | Tool              | Rarity     |
 | ----------------- | ---------- |
 | Rusty Pickaxe     | Common     |
@@ -39,6 +49,10 @@ Material locations may be found while traveling, and will allow gathering of a r
 | Super Duper Pickaxe | Epic     |
 | Death and Axes    | Legendary  |
 | Kiss Thy Axe      | Celestial  |
+
+</div>
+
+<div class="table-container">
 
 | Location     | Skill Level | Rarity     | Material      | EXP     |
 | ------------ | ----------- | ---------- | ------------- | ------- |
@@ -50,10 +64,14 @@ Material locations may be found while traveling, and will allow gathering of a r
 | Titanium Ore | 70          | Epic       | Titanium Ore  | ?       |
 | Tungsten Ore | 100         | Legendary  | Tungsten Ore  | ?       |
 
+</div>
+
 ---
 
 ## Fishing
 
+<div class="table-container">
+  
 | Tool                | Rarity     |
 | ------------------- | ---------- |
 | Rusty Fishing Rod   | Common     |
@@ -63,6 +81,10 @@ Material locations may be found while traveling, and will allow gathering of a r
 | Epic Fishing Rod    | Epic       |
 | Lord of the Fishes  | Legendary  |
 | The Master Baiter   | Celestial  |
+
+</div>
+
+<div class="table-container">
 
 | Location          | Skill Level | Rarity     | Material          | EXP     |
 | ----------------- | ----------- | ---------- | ----------------- | ------- |
@@ -80,9 +102,13 @@ Material locations may be found while traveling, and will allow gathering of a r
 | Great White Shark | 100         | Legendary  | Great White Shark | ?       |
 | Turtle            | 100         | Legendary  | Turtle            | ?       |
 
+</div>
+
 ---
 
 ## Treasure Hunting
+
+<div class="table-container">
 
 | Tool           | Rarity     |
 | -------------- | ---------- |
@@ -93,6 +119,10 @@ Material locations may be found while traveling, and will allow gathering of a r
 | Epic Shovel    | Epic       |
 | The Shovel II  | Legendary  |
 | Gold Digger    | Celestial  |
+
+</div>
+
+<div class="table-container">
 
 | Location                        | Skill Level | Rarity     | Material       | EXP     |
 | ------------------------------- | ----------- | ---------- | -------------- | ------- |
@@ -107,26 +137,12 @@ Material locations may be found while traveling, and will allow gathering of a r
 | Mysterious Pile of Rubble       | 70          | Epic       | Golden Tooth   | ?       |
 | Mysterious Pile of Rubble       | 100         | Legendary  | Hieroglyph     | ?       |
 
+</div>
+
 ---
 
 ## Crafting
 
-No tool needs to be equipped for crafting. Instead, crafting requires materials gathered from other skills.
+Crafting has a seperate page [here][1].
 
-| Item                       | Skill Level | Rarity     | Requirements                                                         | EXP |
-| -------------------------- | ----------- | ---------- | -------------------------------------------------------------------- | --- |
-| Mr Floppy                 | 6           | Uncommon   | 36x Jewel, 30x Dinosaur Skull                                        | ?   |
-| Pineapple                 | 5           | Uncommon   | 25x Copper Ore, 25x Iron Ore, 20x Goldfish                           | ?   |
-| Loyal Walkers of the Earth | 5           | Rare       | 10x Coal Ore, 5x Shrimp, 20x Salmon, 20x Swordfish                   | ?   |
-| Carrier Bags              | 4           | Common     | 4x Goldfish, 8x Shrimp, 12x Jewel, 16x Dinosaur Skull                | ?   |
-| Special Carrot            | 3           | Elite      | 21x Shrimp, 24x Jewel                                                | ?   |
-| Fortune of the Archer III | 3           | Rare       | 36x Common Wood                                                      | ?   |
-| Medium Amulet of Defence  | 3           | Uncommon   | 9x Goldfish, 24x Shrimp                                              | ?   |
-| Pie                       | 2           | Common     | 26x Shrimp                                                           | ?   |
-| Barbarians T-Shirt        | 2           | Common     | 10x Copper Ore, 4x Shrimp, 8x Dinosaur Skull                         | ?   |
-| Wooden Stick              | 1           | Common     | 8x Common Wood, 4x Shrimp                                            | ?   |
-| Simple Dagger             | 1           | Common     | 7x Copper Ore, 5x Jewel                                              | ?   |
-| Bootleg T-Shirt           | 1           | Common     | 5x Goldfish, 3x Shrimp                                               | ?   |
-| Carrot                    | 1           | Common     | 3x Common Wood, 3x Goldfish, 4x Dinosaur Skull                       | ?   |
-| Bread                     | 1           | Uncommon   | 5x Common Wood, 4x Shrimp, 3x Dinosaur Skull                         | ?   |
-| T-Shirt for the Homeless  | 1           | Rare       | 2x Copper Ore, 3x Goldfish, 2x Shrimp, 1x Jewel                      | ?   |
+[1]:/character/crafting
