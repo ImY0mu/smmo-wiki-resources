@@ -40,7 +40,7 @@ The avatars collection has two buttons which allow the player to let the game pi
 | 20              | 15      | 50k  | 40         | None                          |
 | 40              | 35      | 100k | 50         | None                          |                                                              |
 | 75              | 50      | 100k | 60         | Avatar Enthusiast             | ![icon](https://web.simple-mmo.com/img/icons/S_Buff14.png)   |
-| 120             | 100     | 100k | 85         | Avatar: The Last Simpletopian | ![icon](https://web.simple-mmo.com/img/icons/S_Shadow07.png) |
+| 120             | 100     | 100k | 85         | Avatar: The Last Simpletonian | ![icon](https://web.simple-mmo.com/img/icons/S_Shadow07.png) |
 
 </div>
 
