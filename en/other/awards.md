@@ -67,7 +67,7 @@ Awards are a set of achievements in game which may reward diamonds to the player
 | ![icon](https://web.simple-mmo.com/img/sprites/premium/exclusive85.gif) | Mr. Sprite                    |               Collect 280 sprites               |        |
 | ![icon](https://web.simple-mmo.com/img/sprites/premium/exclusive85.gif) | Lover of all Things           |               Collect 390 sprites               |        |
 | ![icon](https://web.simple-mmo.com/img/icons/S_Buff14.png)              | Avatar Enthusiast             |               Collect 75 avatars                |   20   |
-| ![icon](https://web.simple-mmo.com/img/icons/S_Buff14.png)              | Avatar: The Last Simpletopian |               Collect 120 avatars               |   20   |
+| ![icon](https://web.simple-mmo.com/img/icons/S_Buff14.png)              | Avatar: The Last Simpletonian |               Collect 120 avatars               |   20   |
 | ![icon](https://web.simple-mmo.com/img/icons/one/icon393.png)           | Art Collector                 |             Collect 50 backgrounds              |   20   |
 | ![icon]()                                                               | Ol' Collector                 |            Collect 500 unique items             |        |
 | ![icon](https://web.simple-mmo.com/img/icons/one/icon948.png)           | Hoarder                       |              Collect 120,000 items              |   20   |
