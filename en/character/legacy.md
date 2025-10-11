@@ -5,7 +5,7 @@
 
 Legacy mode allows you to reset your account to `level 1` for a new challenge. The option to legacy can be located at the bottom of your `View Character` page.
 
-Every time you reset, your current account stats before reset will be saved in your family tree. You can view your family tree on your profile to see your past stats before you reset. 
+Every time you reset, your current account stats before reset will be saved in your family tree. You can view your family tree on your profile to see your past stats before you reset.
 
 **You do not get any bonuses for entering legacy mode.** You will, however, receive a legacy mode label on your profile as well as an award.
 
@@ -58,8 +58,3 @@ Resets all of your stats, clears your inventory, resets some of your collections
 
 > [!IMPORTANT]
 > Legacy Pro resets cannot occur if there is an active trade open.
-
-
-
-
-

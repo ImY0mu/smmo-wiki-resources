@@ -16,15 +16,18 @@ Player will receive 2 stat points for every level up. These can be applied to yo
 
 ### Equipment
 
-You can use [equipment][2] to increase your stats by a large amount. Equipment comes in diffrent [rarities][3] and they all provide different stats.
+You can use [equipment][2] to increase your stats by a large amount. Equipment comes in different [rarities][3] and they all provide different stats.
 
 ## Resetting Stats
+
 The player is able to reset the stats allocated by pointed gained from their levelling up. When this has been done, their player stats (excluding equipment and professions stat increase) is reset back to zero, and they are available to reallocate all of their stat points. This can be done through two ways:
+
 - Purchasing `Reset Skills` in the diamond store. This costs 15 diamonds at base value or less when there are discounts.
 - Using a `Tome of Resetting Skills`, dropped as a normal weapon or purchased through the player market.
 
 ## Crit/Special Attack (spATK)
-Special attack/crit is a stat that can only be increased through equipmnt. Crit only affects special attacks, which can be used in PvP and PvE battles when you are the attacking player.
+
+Special attack/crit is a stat that can only be increased through equipment. Crit only affects special attacks, which can be used in PvP and PvE battles when you are the attacking player.
 
 Using a special attack consumes one energy point, and boosts the player's strength stat for one turn. The boost is +25% by default. The crit bonus is applied to the str stat before any of the below calculations are performed.
 
@@ -43,14 +46,11 @@ These values are the sum of the characters base stats (as shown in their profile
 
 ### Functions
 
-- Max <sub>ab</sub> (str <sub>a</sub>, def <sub>b</sub>) = str\_a - (9/11)\*def <sub>b</sub>
-	- In practice, this function is rounded to the nearest whole number and floored at 20
-- Min <sub>ab</sub> (str <sub>a</sub>, def <sub>b</sub>) = str\_a - (11/9)\*def <sub>b</sub>
-	- In practice, this function is rounded to the nearest whole number and floored at 1
+- Max <sub>ab</sub> (str <sub>a</sub>, def <sub>b</sub>) = str_a - (9/11)\*def <sub>b</sub>
+  - In practice, this function is rounded to the nearest whole number and floored at 20
+- Min <sub>ab</sub> (str <sub>a</sub>, def <sub>b</sub>) = str_a - (11/9)\*def <sub>b</sub>
+  - In practice, this function is rounded to the nearest whole number and floored at 1
 
-
-
-[1]:/activities-and-challenges/quests
-[2]:/items/item-types
-[3]:/items/rarities
-
+[1]: /activities-and-challenges/quests
+[2]: /items/item-types
+[3]: /items/rarities
