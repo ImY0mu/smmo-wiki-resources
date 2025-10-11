@@ -1,6 +1,6 @@
 # Discussion Boards
 
-The **Discussion Boards** is the game forum. It is accessible from sidebar navigation. 
+The **Discussion Boards** is the game forum. It is accessible from sidebar navigation.
 
 There is a 1500-character limit for each post. Titles of threads are not editable so proofread before you post. Posts themselves may be edited. There is a 1 minute cooldown period when posting in threads.
 
@@ -19,7 +19,7 @@ Posting in the discussion boards awards a random amount of experience that scale
 
 **General** is for all kinds of discussions that do not belong in the other categories.
 
-**Suggestions** is where players may suggest new game features or improvement to existing features. 
+**Suggestions** is where players may suggest new game features or improvement to existing features.
 
 > [!Note]
 > The suggestions system has been moved to the official SMMO discord server
@@ -37,5 +37,4 @@ For efficiency, include the following details if you are holding an auction:
 
 **Roleplay** is as it says, for roleplaying.
 
-**Games and Competitions** is where players may host their own games and giveaways. 
-
+**Games and Competitions** is where players may host their own games and giveaways.
