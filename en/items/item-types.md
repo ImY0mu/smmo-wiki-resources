@@ -13,6 +13,7 @@ Defines how the item enters the game.
 ## Types
 
 ### Equipment
+
 All equipment can grant a variation of the following [stats][1] on Strength, Defence and Critical.
 
 - **Helmet**
@@ -27,30 +28,32 @@ All equipment can grant a variation of the following [stats][1] on Strength, Def
 - **Special**
 
 ### Player Item
+
 - **Avatar** – Visual representation of the [player character][2].
 - **Background** – Cosmetic layer behind the avatar on player profile.
 
 ### Game Item
+
 - **Book** - Created within the `Town Library` and some that can be redeemed for Diamonds or Resetting Player Stats.
 - **Collectable** – Non-functional items meant for [game collection][3], personal collection or trading with players.
 - **Event Collectable** – Limited-time collectables tied to game events.
 - **Event Item** – Limited-time items tied to game events.
 - **Food** – Consumables that restore health.
 - **Item Sprite** – Visual asset representing the items look. Can be used to change game items into item sprites.
-- **Other** – [Keys][4] can be located here. 
+- **Other** – [Keys][4] can be located here.
 - **Potion** – Consumables granting temporary effects.
 
 ### Tools
+
 - **Fishing Rod** – Resource gathering tool for Fishing skill.
 - **Pickaxe** – Resource gathering tool for Mining skill.
 - **Shovel** – Resource gathering tool for Treasure Hunting skill.
 - **Wood Axe** – Resource gathering tool for Woodcutting skill.
-> [!TIP]
-> The resource gathered are known as Materials which are used in [crafting][5] recipes.
+  > [!TIP]
+  > The resource gathered are known as Materials which are used in [crafting][5] recipes.
 
-
-[1]:/character/stats
-[2]:/character/avatar
-[3]:/items/collection
-[4]:/other/keys
-[5]:/character/crafting
+[1]: /character/stats
+[2]: /character/avatar
+[3]: /items/collection
+[4]: /other/keys
+[5]: /character/crafting
