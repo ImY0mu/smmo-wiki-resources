@@ -1,4 +1,5 @@
 # Rewards
+
 Testing, feel free to rewrite it.
 
 > [!NOTE]
