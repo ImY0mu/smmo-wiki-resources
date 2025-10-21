@@ -88,7 +88,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering SimpleM
 ![Rewards](https://smmo-wiki.com/assets/icons/menu/rewards.png) [Rewards](/other/rewards)\
 ![Keys](https://smmo-wiki.com/assets/icons/menu/keys.png) [Keys](/other/keys)\
 ![Dumping Grounds](https://smmo-wiki.com/assets/icons/menu/dumping_grounds.png) [Dumping Grounds](/other/dumping-grounds)\
-![Follen the Healer](https://smmo-wiki.com/assets/icons/menu/healer.png) [Follen the Healer](/other/follen-the-healer)
+![Folen the Healer](https://smmo-wiki.com/assets/icons/menu/healer.png) [Folen the Healer](/other/folen-the-healer)
 
 </div>
 <div class="border-t border-neutral-800">
