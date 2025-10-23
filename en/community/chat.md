@@ -17,7 +17,7 @@ To access chat on the SMMO app, click the chat icon in the top right corner, or 
 The in-game chat contains 4 chat rooms with different intended purposes of usage.
 
 - Global: The main player chat, where players chat.
-- Ads: For posting advertisements for your market and player trading.
+- Ads: For posting advertisements for your market and player trading. There is a 30 minute posting cooldown. 
 - Support: Asking for help and general questions in the game.
 - Guild: This chat can only be accessed by your guild members. However, most guilds communicate via Guild Discords.
 
@@ -31,7 +31,7 @@ Players can utilise chat commands to tag people, items, their avatars, discord, 
 - `[[item name]]` - Tags the item with an interactive name and sprite.
 - `[!item name!]` - Tags the item with only the sprite.
 - `:a:` and \:al: - Shows your currently equipped avatar in chat. al is the larger version.
-- `:discord:` and \:rules: hyperlinked to the official SMMO Discord and the SMMO Rules page.
+- `:discord:` and `:rules:` hyperlinked to the official SMMO Discord and the SMMO Rules page respectively.
 - `:market:` - Links your personal player market. ONLY USE IN ADS CHAT.
 - `@[user_id]` tags a player's name in chat. To reply to someone quicker, click their name in chat.
 
@@ -41,7 +41,7 @@ Players can utilise chat commands to tag people, items, their avatars, discord, 
 > To REFRESH Chat, click the button again of the chat you are currently in.
 
 > [!CAUTION]
-> :market: command should not be used in global and support chat. Avoid spamming or flooding the chats with chat commands.
+> `:market:` command should not be used in global and support chat. Avoid spamming or flooding the chats with chat commands.
 
 ## Reporting and Blocking
 
