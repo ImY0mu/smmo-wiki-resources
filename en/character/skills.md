@@ -1,13 +1,20 @@
 # Skills
 
-Each skill has a its own separate level and EXP needed to level up. The appropriate tool needs to be equipped from the inventory in order to gather the related materials and earn EXP for the skill. Common and Uncommon tools may be purchased from Toms Tools in Towns
+## Introduction
+Skills, introduced in update v7.0, can be found in the stats page and is divided into 6 different categories: Fishing, Woodcutting, Treasure Hunting, Mining, Crafting, and Event Gathering. 
 
-Material locations may be found while traveling, and will allow gathering of a random amount of material before the location is depleted. Each town may have different encounter rates for each material type.
+Collection Skills can be found/levelled up by stepping.
+
+Tools are divided into 7 rarities, giving different amounts of materials.
+Materials can be Untradable/Tradable at a 50:50 chance for common - legendary rarity, and a 75:25 chance for celestial materials. Each material collected yields 1-2 Guild EXP if the player is stepping in a location with an active guild raid. 
+
 
 ## Woodcutting
 
+<div class="table-container">
+  
 | Tool                   | Rarity     |
-| ----------------------- | ---------- |
+| ---------------------- | ---------- |
 | Rusty Axe              | Common     |
 | Weak Axe               | Uncommon   |
 | Strong Axe             | Rare       |
@@ -16,44 +23,64 @@ Material locations may be found while traveling, and will allow gathering of a r
 | Axe of the Gods        | Legendary  |
 | Stop Looking At My Axe | Celestial  |
 
-| Location          | Skill Level | Rarity     | Material          | EXP     |
-| ----------------- | ----------- | ---------- | ----------------- | ------- |
-| Common Tree       | 1           | Common     | Common Wood       | 3-6     |
-| Oak Tree          | 5           | Uncommon   | Oak Wood          | 15-30   |
-| Elm Tree          | 5           | Uncommon   | Elm Wood          | 15-30   |
-| White Ash Tree    | 20          | Rare       | White Ash Wood    | 60-120  |
-| Red Pine Tree     | 50          | Elite      | Red Pine Wood     | 200-350 |
-| White Spruce Tree | 70          | Epic       | White Spruce Wood | ?       |
-| Banyon Tree       | 100         | Legendary  | Banyon Wood       | ?       |
+</div>
+
+
+<div class="table-container">
+
+| Material          | Skill Level | Rarity     |  Woodcutting EXP     |
+| ----------------- | ----------- | ---------- | -------------------- | 
+| Common Wood       | 1           | Common     | 4-7                  |
+| Oak Wood          | 3           | Uncommon   | 12-21                | 
+| Elm Wood          | 3           | Uncommon   | 12-21                | 
+| White Ash Wood    | 5           | Rare       | 20-35                |
+| Red Pine Wood     | 10          | Elite      | 40-70                | 
+| White Spruce Wood | 20          | Epic       | 80-140               |
+| Banyon Wood       | 30          | Legendary  | 120-210              |
+| Black Ironwood    | 50          | Celestial  | 200-350              |
+
+</div>
 
 ---
 
 ## Mining
 
-| Tool              | Rarity     |
-| ----------------- | ---------- |
-| Rusty Pickaxe     | Common     |
-| Weak Pickaxe      | Uncommon   |
-| Strong Pickaxe    | Rare       |
-| Viking Pickaxe    | Elite      |
-| Super Duper Pickaxe | Epic     |
-| Death and Axes    | Legendary  |
-| Kiss Thy Axe      | Celestial  |
+<div class="table-container">
+  
+| Tool                | Rarity     |
+| ------------------- | ---------- |
+| Rusty Pickaxe       | Common     |
+| Weak Pickaxe        | Uncommon   |
+| Strong Pickaxe      | Rare       |
+| Viking Pickaxe      | Elite      |
+| Super Duper Pickaxe | Epic       |
+| Death and Axes      | Legendary  |
+| Kiss Thy Axe        | Celestial  |
 
-| Location     | Skill Level | Rarity     | Material      | EXP     |
-| ------------ | ----------- | ---------- | ------------- | ------- |
-| Copper Ore   | 1           | Common     | Copper Ore    | 3-6     |
-| Coal Ore     | 5           | Uncommon   | Coal Ore      | 15-30   |
-| Iron Ore     | 5           | Uncommon   | Iron Ore      | 15-30   |
-| Steel Ore    | 20          | Rare       | Steel Ore     | 60-120  |
-| Chromium Ore | 50          | Elite      | Chromium Ore  | 200-350 |
-| Titanium Ore | 70          | Epic       | Titanium Ore  | ?       |
-| Tungsten Ore | 100         | Legendary  | Tungsten Ore  | ?       |
+</div>
+
+
+<div class="table-container">
+
+| Material       | Skill Level | Rarity     | Mining EXP     |
+| -------------- | ----------- | ---------- | -------------- |
+| Copper Ore     | 1           | Common     | 4-7            |
+| Coal Ore       | 3           | Uncommon   | 12-21          |
+| Iron Ore       | 3           | Uncommon   | 12-21          |
+| Steel Ore      | 5           | Rare       | 20-35          |
+| Chromium Ore   | 10          | Elite      | 40-70          |
+| Titanium Ore   | 20          | Epic       | 80-140         |
+| Tungsten Ore   | 30          | Legendary  | 120-210        |
+| Frostamite Ore | 50          | Celestial  | 200-350        |
+
+</div>
 
 ---
 
 ## Fishing
 
+<div class="table-container">
+  
 | Tool                | Rarity     |
 | ------------------- | ---------- |
 | Rusty Fishing Rod   | Common     |
@@ -64,25 +91,35 @@ Material locations may be found while traveling, and will allow gathering of a r
 | Lord of the Fishes  | Legendary  |
 | The Master Baiter   | Celestial  |
 
-| Location          | Skill Level | Rarity     | Material          | EXP     |
-| ----------------- | ----------- | ---------- | ----------------- | ------- |
-| Goldfish          | 1           | Common     | Goldfish          | 3-6     |
-| Shrimp            | 1           | Common     | Shrimp            | 3-6     |
-| Sardine           | 5           | Uncommon   | Sardine           | 15-30   |
-| Cod               | 5           | Uncommon   | Cod               | 15-30   |
-| Salmon            | 5           | Uncommon   | Salmon            | 15-30   |
-| Tuna              | 5           | Uncommon   | Tuna              | 15-30   |
-| Swordfish         | 5           | Uncommon   | Swordfish         | 15-30   |
-| Jellyfish         | 20          | Rare       | Jellyfish         | 60-140  |
-| Crab              | 20          | Rare       | Crab              | 60-120  |
-| Tiger Shark       | 50          | Elite      | Tiger Shark       | 200-350 |
-| Hammerhead Shark  | 70          | Epic       | Hammerhead Shark  | ?       |
-| Great White Shark | 100         | Legendary  | Great White Shark | ?       |
-| Turtle            | 100         | Legendary  | Turtle            | ?       |
+</div>
+
+
+<div class="table-container">
+
+| Material          | Skill Level | Rarity     | Fishing EXP      |
+| ----------------- | ----------- | ---------- | ---------------- |
+| Goldfish          | 1           | Common     | 4-7              |
+| Shrimp            | 1           | Common     | 4-7              |
+| Sardine           | 3           | Uncommon   | 12-21            |
+| Cod               | 3           | Uncommon   | 12-21            |
+| Salmon            | 3           | Uncommon   | 12-21            |
+| Tuna              | 3           | Uncommon   | 12-21            |
+| Swordfish         | 3           | Uncommon   | 12-21            |
+| Jellyfish         | 5           | Rare       | 20-35            |
+| Crab              | 5           | Rare       | 20-35            |
+| Tiger Shark       | 10          | Elite      | 40-70            |
+| Hammerhead Shark  | 20          | Epic       | 80-140           |
+| Great White Shark | 30          | Legendary  | 120-210          |
+| Turtle            | 30          | Legendary  | 120-210          |
+| Megalodon         | 50          | Celestial  | 200-350          |
+ 
+</div>
 
 ---
 
 ## Treasure Hunting
+
+<div class="table-container">
 
 | Tool           | Rarity     |
 | -------------- | ---------- |
@@ -94,39 +131,34 @@ Material locations may be found while traveling, and will allow gathering of a r
 | The Shovel II  | Legendary  |
 | Gold Digger    | Celestial  |
 
-| Location                        | Skill Level | Rarity     | Material       | EXP     |
-| ------------------------------- | ----------- | ---------- | -------------- | ------- |
-| Mysterious Pile of Rubble       | 1           | Common     | Dinosaur Skull | 3-6     |
-| Mysterious Pile of Rubble       | 1           | Common     | Jewel          | 3-6     |
-| Mysterious Pile of Rubble       | 5           | Uncommon   | Bomb           | 15-30   |
-| Mysterious Pile of Rubble       | 5           | Uncommon   | Human Remains  | 15-30   |
-| Mysterious Pile of Rubble       | 20          | Rare       | Crystal Ball   | 60-120  |
-| Mysterious Pile of Glowing Rubble | 20        | Rare       | Diamond Shard  | 60-120  |
-| Mysterious Pile of Rubble       | 50          | Elite      | Small Crystal  | 200-350 |
-| Mysterious Pile of Rubble       | 50          | Elite      | Large Crystal  | 200-350 |
-| Mysterious Pile of Rubble       | 70          | Epic       | Golden Tooth   | ?       |
-| Mysterious Pile of Rubble       | 100         | Legendary  | Hieroglyph     | ?       |
+</div>
+
+
+<div class="table-container">
+
+| Material            | Skill Level | Rarity     | Treasure Hunting EXP     |
+| ------------------- | ----------- | ---------- | ------------------------ |
+| Rusty Skeleton Key  | 1           | Common     | 4-7                      |
+| Curious Rune        | 1           | Common     | 4-7                      |
+| Monster Claw        | 3           | Uncommon   | 12-21                    |
+| Blue Pearl          | 3           | Uncommon   | 12-21                    |
+| Prehistoric Candy   | 5           | Rare       | 20-35                    |
+| Diamond Shard       | 5           | Rare       | 20-35                    |
+| Magical Mirror      | 10          | Elite      | 40-70                    |
+| Musicians Trumpet   | 10          | Elite      | 40-70                    |
+| Mysterious Gem      | 20          | Epic       | 80-1405                  |
+| Pure Gold Block     | 30          | Legendary  | 120-210                  |
+| Book of the Dead    | 50          | Celestial  | 200-350                  |
+
+</div>
 
 ---
 
+## Event Gathering
+Event Gathering skill EXP is obtained through gathering materials at any Event Location. The nodes do not require a tool to harvest, and both common and elite event material nodes only yield 2-4 event materials. Event Gathering level does not affect gathering. 
+
 ## Crafting
 
-No tool needs to be equipped for crafting. Instead, crafting requires materials gathered from other skills.
+Crafting has a seperate page [here][1].
 
-| Item                       | Skill Level | Rarity     | Requirements                                                         | EXP |
-| -------------------------- | ----------- | ---------- | -------------------------------------------------------------------- | --- |
-| Mr Floppy                 | 6           | Uncommon   | 36x Jewel, 30x Dinosaur Skull                                        | ?   |
-| Pineapple                 | 5           | Uncommon   | 25x Copper Ore, 25x Iron Ore, 20x Goldfish                           | ?   |
-| Loyal Walkers of the Earth | 5           | Rare       | 10x Coal Ore, 5x Shrimp, 20x Salmon, 20x Swordfish                   | ?   |
-| Carrier Bags              | 4           | Common     | 4x Goldfish, 8x Shrimp, 12x Jewel, 16x Dinosaur Skull                | ?   |
-| Special Carrot            | 3           | Elite      | 21x Shrimp, 24x Jewel                                                | ?   |
-| Fortune of the Archer III | 3           | Rare       | 36x Common Wood                                                      | ?   |
-| Medium Amulet of Defence  | 3           | Uncommon   | 9x Goldfish, 24x Shrimp                                              | ?   |
-| Pie                       | 2           | Common     | 26x Shrimp                                                           | ?   |
-| Barbarians T-Shirt        | 2           | Common     | 10x Copper Ore, 4x Shrimp, 8x Dinosaur Skull                         | ?   |
-| Wooden Stick              | 1           | Common     | 8x Common Wood, 4x Shrimp                                            | ?   |
-| Simple Dagger             | 1           | Common     | 7x Copper Ore, 5x Jewel                                              | ?   |
-| Bootleg T-Shirt           | 1           | Common     | 5x Goldfish, 3x Shrimp                                               | ?   |
-| Carrot                    | 1           | Common     | 3x Common Wood, 3x Goldfish, 4x Dinosaur Skull                       | ?   |
-| Bread                     | 1           | Uncommon   | 5x Common Wood, 4x Shrimp, 3x Dinosaur Skull                         | ?   |
-| T-Shirt for the Homeless  | 1           | Rare       | 2x Copper Ore, 3x Goldfish, 2x Shrimp, 1x Jewel                      | ?   |
+[1]:/character/crafting

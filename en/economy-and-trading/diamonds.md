@@ -1,16 +1,21 @@
 # Diamonds
+
 Diamonds are the premium currency in the game and can be purchased using real money. Once acquired, they can be spent on a wide range of upgrades, cosmetics, and utility items.
 
 ## Buying Diamonds
+
 You can buy diamonds via Android App (not iOS) and [Web app][3]. Prices do vary and it is cheaper to buy via Web app.
 
 ### Diamond Pricing Tiers
-Players can choose from diamond bundles, each offering different price points and bulk discounts. 
+
+Players can choose from diamond bundles, each offering different price points and bulk discounts.
 
 Here's a breakdown of the pricing structure:
 
+<div class="table-container">
+
 | Diamond Quantity | Price Range     | Cost per Diamond |
-|------------------|-----------------|------------------|
+| ---------------- | --------------- | ---------------- |
 | 1–99             | $0.17 – $16.83  | $0.17            |
 | 100–199          | $15.00 – $29.85 | $0.15            |
 | 200–399          | $22.00 – $43.89 | $0.11            |
@@ -19,15 +24,20 @@ Here's a breakdown of the pricing structure:
 | 800–999          | $76.00 – $94.90 | $0.095           |
 | 1000+            | $90.00+         | $0.09            |
 
+</div>
+
 ## Diamond Store
+
 The Diamond Store is where players go to enhance their experience by boosting stats, customising your profile, or unlocking exclusive items. It brings together everything from purchasing diamonds to reviewing your spending history, with plenty of options for progression and personalisation.
 
 ### Sale on Diamonds, Boosts and Upgrades
+
 Sales come in different forms, including discounts on diamond purchases and reduced prices for boosts and upgrades. These offers may be single or double sales depending on the occasion.
 
 They can appear at various times throughout the year, but one of the most consistent and long-running examples is the Black Friday sale in November, which often features extended discounts and generous offers.
 
-If we look at Animated Avatar as an example: 
+If we look at Animated Avatar as an example:
+
 - Base Price: 200
 - Single Sale: 180
 - Double Sale: 160
@@ -35,16 +45,20 @@ If we look at Animated Avatar as an example:
 ## Features
 
 ### Membership
-A monthly subscription service that supports the developement of the game rewarding players with additional benefits in many aspects. Find out more [here][1].
+
+A monthly subscription service that supports the development of the game rewarding players with additional benefits in many aspects. Find out more [here][1].
 
 ### Boosts and Upgrades
+
 Diamonds can be spent on a variety of boosts that improve gameplay efficiency and unlock premium features.
 
+<div class="table-container">
+  
 | Icon | Item                             | Cost       | Description |
 |------|----------------------------------|------------|-------------|
 | ![icon](https://web.simple-mmo.com/img/sprites/premium/exclusive85.gif)        | Animated Avatar                  | 200        | Change your avatar to your very own animated sprite. Please know that you must provide your own avatar and it essential to have full permission of using the sprite on the game. The sprite must be a consistent art style with the current avatars in-game in order to be approved. The sprite file size must be lower than 80kb. The maximum size for an animated avatar is 52 x 52. |
 | ![icon](https://web.simple-mmo.com/img/icons/S_Sword06.png)                    | Item Rename                      | 25         | Place your own identity on a item of your choice that you currently own. You can rename your items by pressing the options menu for an individual item within the inventory. |
-| ![icon](https://web.simple-mmo.com/img/icons/I_Key03.png)                      | Gold Key                         | 4          | Gold keys allow you to unlock gold treasure chests in order to recieve more powerful items. |
+| ![icon](https://web.simple-mmo.com/img/icons/I_Key03.png)                      | Gold Key                         | 4          | Gold keys allow you to unlock gold treasure chests in order to receive more powerful items. |
 | ![icon](https://web.simple-mmo.com/img/icons/S_Light01.png)                    | Increase max quest points        | 40         | Do you want to complete more quests in a short amount of time? Increase the maximum amount of quest points that you have! |
 | ![icon](https://web.simple-mmo.com/img/icons/I_Feather02.png)                  | Gradient username                | 150        | Be unique and stand out in the world of SMMO and change the colour of your username. |
 | ![icon](https://web.simple-mmo.com/img/sprites/premium/314.png)                | Change your item into celestial  | 50         | Convert any item that you have into a celestial to make it even more unique. Please note that this does not come with any stat modifiers. |
@@ -68,27 +82,33 @@ Diamonds can be spent on a variety of boosts that improve gameplay efficiency an
 | ![icon](https://web.simple-mmo.com/img/icons/one/icon819.png)                  | Rename Collected Avatar          | 30         | Collected custom avatar but forgot to rename it? Do it now! |
 | ![icon](https://web.simple-mmo.com/img/icons/two/32px/Feather_32.png)          | Animated Gradient username       | 250        | Be unique and stand out in the world of SMMO and change the colour of your username. |
 
+</div>
+
 ### Sprites and Custom Items
+
 Players can purchase static and animated sprites to create custom items. These are used for personalising weapons, avatars, and collectibles.
+
 - Sprites vary in style
 - Some are exclusive to events
 - Full sprite catalogue is available in the dedicated section
 
 > [!TIP]
-> Sprites can also be pruchased with gold through the player market. Have a look there before purchasing with diamonds.
+> Sprites can also be purchased with gold through the player market. Have a look there before purchasing with diamonds.
 
 ### Redeeming Keys
+
 `Mahol’s Hut` is the place to redeem [keys][2] and open chests. Here, you can:
+
 - Open bronze, silver, and gold chests
 - Exchange bronze keys to silver keys
 - Review drop rates and rarity odds
 
 ### Purchase History
+
 Diamond Purchase History - View all personal and gifted diamond transactions.
 
 Reward and Upgrade History - See how diamonds were spent across boosts, upgrades, and customisations.
 
-[1]:/character/membership
-[2]:other/keys
-[3]:https://web.simple-mmo.com/diamondstore/diamonds
-
+[1]: /character/membership
+[2]: other/keys
+[3]: https://web.simple-mmo.com/diamondstore/diamonds
