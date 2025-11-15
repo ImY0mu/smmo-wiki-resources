@@ -6,35 +6,30 @@ There is a 1500-character limit for each post. Titles of threads are not editabl
 
 Posting in the discussion boards awards a random amount of experience that scales with the player's level.
 
-## General etiquette
+## General Etiquette
 
-- No spamming
-- No necro-ing (reviving threads more than a month old, with the exception of Suggestions category)
-- While old suggestions may be revived, don't bump suggestions similar to ones that have been denied or implemented by voting or replying to them.
-- Game rules apply
+- No spamming posts or replies.
+- No necro posting (replying to threads more than a month old).
+- All game rules apply to the discussion boards.
+- Keep discussions respectful and appropriate.
 
 ## Categories
 
-**All discussions** shows all discussion topics.
+**Main**
+- General: for all kinds of discussions that do not belong in the other categories.
+- Trade: Post and discuss trade ads and player marketplace trades.
+- Help: Post general questions about the game.
+- Games and Competitions: Host games and competitions for the community to participate in.
+- Guilds: Discussion of guilds, including recruitment.
 
-**General** is for all kinds of discussions that do not belong in the other categories.
+**Other**
+- Introductions: Introduce yourself to other players and get to know each other.
+- Video games: Discuss about other games.
+- Television: Discuss TV shows and movies.
+- Music: Discuss songs and music.
+- Roleplay: Discuss and participate in roleplay topics.
 
-**Suggestions** is where players may suggest new game features or improvement to existing features.
+**Outdated (Moved to the SimpleMMO Official Discord)**
+- Suggestions: players may suggest new game features or improvement to existing features.
+- Bugs: Report bug reports that occur within the game.
 
-> [!Note]
-> The suggestions system has been moved to the official SMMO discord server
-
-**Help** is where you may ask for help from fellow players.
-
-**Trade** is for all kinds of player trading activities, including auctions. Joke auctions are no longer allowed due to player abuse.
-
-For efficiency, include the following details if you are holding an auction:
-
-- Item name, stat and rarity
-- Base price
-- Minimum bid increment
-- Deadline
-
-**Roleplay** is as it says, for roleplaying.
-
-**Games and Competitions** is where players may host their own games and giveaways.
