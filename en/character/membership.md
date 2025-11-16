@@ -13,6 +13,8 @@ Membership page can be found by clicking `Diamond Store` in the side bar (Mobile
 
 ## Benefits
 
+<div class="table-container">
+
 |                                                                      | Benefit                           | Description                                                                                                             |
 | :------------------------------------------------------------------: | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 |     ![icon](https://web.simple-mmo.com/img/icons/I_Diamond.png)      | **20 diamonds on sign-up**        | Receive 20 diamonds when you first become a plebeian                                                                    |
@@ -39,3 +41,5 @@ Membership page can be found by clicking `Diamond Store` in the side bar (Mobile
 |      ![icon](https://web.simple-mmo.com/img/icons/S_Holy02.png)      | **Worship A God Every 12 Hours**  | Worship a god every 12 hours instead of 24 hours                                                                        |
 |     ![icon](https://web.simple-mmo.com/img/icons/S_Earth04.png)      | **Support The Games Development** | Your contribution will support the games development by allowing more funds to be invested into other areas of the game |
 |     ![icon](https://web.simple-mmo.com/img/icons/one/icon001.png)      | **Friends List Increase** | Increase friends list limit from 50 to 75 |
+
+</div>
