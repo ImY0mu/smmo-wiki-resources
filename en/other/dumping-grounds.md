@@ -4,9 +4,12 @@ The dumping ground is a place where you can dump your items and exchange them fo
 
 This place only contains items that other players have thrown in.
 
+> [!TIP]
+> To see how many of a specific item is in the dump, click the item tag and the `inspect` button!
+
 **Throw Items** - Each item thrown will provide you with one dumping token.
 
-**Hunt for Items** - Action button which starts to search the dump. Also consists of an `options dropdown menu` to use energy for collecting more items at once.
+**Hunt for Items** - Action button which allows you to search the dump once per action. Also consists of an `options dropdown menu` to consume energy points to collecting multiple items at once.
 
 Drop Down Options:
 
@@ -14,10 +17,12 @@ Drop Down Options:
 - 20 Items (2 Energy)
 - 30 Items (3 Energy)
 
-You need **10 Dumping Tokens** to Hunt.
+You need **10 Dumping Tokens** to hunt.
+
+Exotic and Celestial [rarity][1] items dumped and pulled from the dump are announced in the in-game global [chat][2], with the exception of food type items.
 
 > [!IMPORTANT]
-> There are a few items cannot be dumped due to being purchasable in [NPC Shops][1], a specific item category or being an untradable item.
+> There are a few items cannot be dumped due to being purchasable in [NPC Shops][3], being a specific item category or being an untradable item.
 
 ### Page Preview Example
 
@@ -31,4 +36,6 @@ The Rarest Items - `Updated every 15 minutes`
 
 This section will display celestials of game or customised items which can be hunted for in the dump by chance.
 
-[1]: /economy-and-trading/item-shop
+[1]:/items/rarities
+[2]:/community/chat
+[2]: /economy-and-trading/item-shop
