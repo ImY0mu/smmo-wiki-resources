@@ -5,9 +5,9 @@
 Gods are powerful entities that players can worship to receive boosts for 1 hour in exchange for an item with the collectable type.
 
 > [!Note]
-> You can only worship one god at a time every 24 hours or 12 hours if the [membership](https://github.com/ImY0mu/smmo-wiki-resources/blob/main/en/character/membership.md) is active.
-> Worship time can be reset at the [Diamond Store](https://github.com/ImY0mu/smmo-wiki-resources/blob/main/en/economy-and-trading/diamonds.md) for 15 diamonds.
-> The collectable required for worship are chosen randomly everyday and cannot exceed the rare rarity. Resetting the worhip time with diamonds will not change the collectable, and the collectable is the same for every player. 
+> You can only worship one god at a time every reset, or twice per reset if the [membership](https://github.com/ImY0mu/smmo-wiki-resources/blob/main/en/character/membership.md) is active.
+> Worships per day can be increased once per day at the [Diamond Store](https://github.com/ImY0mu/smmo-wiki-resources/blob/main/en/economy-and-trading/diamonds.md) for 15 diamonds.
+> The collectable required for worship are chosen randomly everyday and do not exceed the rare rarity. Buying worships with diamonds will not change the collectable, and the collectable is the same for every player. 
 
 ## Location
 

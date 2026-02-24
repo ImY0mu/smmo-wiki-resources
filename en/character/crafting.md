@@ -52,8 +52,8 @@ Each [rarity][3] can be crafted by using same [rarity][3] materials.
 > The table only considers one craft
 
 > [!Note]
-> When you craft `Diamonds` you get `Bag o' 5 Diamonds` an untradable item that get consumed when used and get you 5 Diamonds.
-> `Bag o' 5 Diamonds` is an exclusive items, you can only get it here.
+> When you craft `Diamonds` you get `Bag o' 5 Diamonds`, an untradable item that gets consumed when used and gives you 5 Diamonds.
+> `Bag o' 5 Diamonds` is an exclusive item, you can only get it here.
 
 ## Rewards
 
