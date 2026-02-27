@@ -180,8 +180,8 @@ Currently, some event locations are no longer available so not all NPCs are obta
 | 25     |  5  | 10k   |  30  |  
 | 60     | 15  | 50k   |  40  | 
 | 100    | 35  | 100k  |  50  |
-| 175    | 60  | 100k  |  60  |
-| 300    | 85  | 100k  |  85  |
+| 175    | 50  | 100k  |  60  |
+| 300    | 100 | 100k  |  85  |
 
 </div>
 
