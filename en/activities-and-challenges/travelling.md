@@ -49,6 +49,8 @@ There are different possible events that may occur when stepping:
   - This travel text awards no EXP or gold.
 
 ## Stepping Buffs
+to be added;
+(guild step buffs, potions, global boosts etc)
 
 ## Sprint
 
@@ -56,13 +58,36 @@ Sprint is a travel mechanic which allows the player to consume EP in exchange fo
 
 ## Travel Party
 
-Travel parties is a mechanic where you are able to step in a group of up to 3 other players. When other players are _actively_ stepping, there is a chance of you receiving a small percentage of gold or player EXP. The amount of gold/exp distributed scales to your personal level and is not affected by the levels of other players. You will only receive the gold and EXP if you are also actively stepping.
+### Introduction
+Travel Parties let you step together with up to 3 other players.
+When other players are actively stepping, you have a chance to receive:
+- A small amount of gold
+- A small amount of player EXP
 
+The rewards scale with your player level, and are not affected by other players’ levels. You will only receive the rewards if you are also actively stepping.
+
+### Accessing Travel Parties
 On the travel screen, you can click the `Party` button to access the travel party screen. The party screen shows your party (if you are in one), you friends' parties, and public travel parties. If you are not currently in a travel party, you are able to create one for yourself free of charge. The owner of a travel party is indicated by a crown icon beside their name.
 
-If you are the owner of a travel party, you are able to choose to make the party private, or public (anybody can join from the party screen). Travel parties are private by default. You can also set an inactivity kick for 5, 10, 20, 30, 60 minutes, 3, 6, 12 hours, and 1 day or a week. Inactive steppers have a 'greyed out' icon on the step screen, and will automatically be removed from the party when they have not been stepping for the set amount of time. The owner can also manually remove a player from their party, and the AFK kick does not affect the owner.
+### Editing Your Travel Party
+If you are the owner of a travel party, you are able to choose to make the party private, or public (anybody can join from the party screen). Travel parties are private by default. Y
 
-In public parties, a player can enter the party as long as there is less tha 4 players in it. You can find private parties by clicking on the profile of a person who is in the party, and requesting to join. The party owner is able to view and accept/reject join requests, and send party invites to people in their friends list. The owner receives an (optional) in-game notification when a player joins their party. An owner cannot join another travel party if they own one, and must delete it to join other parties. Additionally, a party cannot be renamed, so for a different name the party must be deleted and a new one created.
+You can choose when inactive players get removed:
+- 5, 10, 20, 30, 60 minutes
+- 3, 6, 12 hours
+- 1 day or 1 week
+
+Inactive players show as greyed out, and they are auto-removed after the inactivity tim limit is reached. The party owner is NOT affected by AFK kick
+
+### Managing Travel Parties
+In public parties, a player can enter the party as long as there is less tha 4 players in it. You can find private parties by clicking on the profile of a person who is in the party, and requesting to join. 
+
+The party owner is able to:
+- View and accept/reject join requests
+- Send party invites to people in their friends listR
+- Receive (optional) in-game notifications when a player joins their party
+- 
+The party owner cannot join another travel party if they own one, and must delete it to join other parties. Additionally, a party cannot be renamed, so for a different name the party must be deleted and a new one created.
 
 ## Locations
 Players are about to step in different locations, which offer different travel text, NPC encounter, and material node rates. For more information on these encounter rates, you may click the `view` button under each location in the locations page. The Horse and Carriage page can be found by clicking `Town`-> `Change Location`, or `Travel` -> `Change Location`.
