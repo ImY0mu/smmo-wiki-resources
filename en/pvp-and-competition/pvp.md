@@ -50,7 +50,7 @@ Subscribing to the in game [membership][3] allows you to set a different length 
 - 7 days
 - 14 days
 
-Safe mode can be removed before the time limit, by paying 20 diamonds in the [diamond store][4]. Additionally, permanent safe mode can manually be removed after 3 months. Permanent safe mode is automatically applied once a player reaches level 200, and the first time removal is free of cost. 
+Safe mode can be removed before the time limit, by paying 20 diamonds in the [diamond store][4]. Additionally, permanent safe mode can manually be removed after 30 days. Safe Mode is automatically removed after 3 months of inactivity. Permanent safe mode is automatically applied once a player reaches level 200, and the first time removal is free of cost. 
 
 >[!IMPORTANT]
 >A player cannot become a guild warrior in a PvP Guild, if they have Safe Mode enabled.
