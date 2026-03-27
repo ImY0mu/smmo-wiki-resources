@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Battle Arena is PvE-oriented where you fight randomly generated NPCs relative to the location you are currently in to gain experience in exchange for a certain amount of gold and 1 energy point. Guild Experience can also be earned from the Battle Arena, which is covered more in the [Guild](/wiki/community-and-competition/guilds) guide.
+The Battle Arena is PvE-oriented where you fight randomly generated NPCs relative to the location you are currently in to gain experience in exchange for a certain amount of gold and 1 energy point per NPC. Guild Experience can also be earned from the Battle Arena, which is covered in more detail in the [Guild](/wiki/community-and-competition/guilds) guide.
 
 ## Location
 
@@ -10,10 +10,10 @@ The Battle Arena can be found by clicking the Battle icon, and afterwards select
 
 ## Your Tier
 
-The Battle Arena is divided into 11 Tiers. Each tier has a certain Estimated EXP, EXP Modifier, Competition Requirement and Enemy Cost. The enemy cost scales with your level until it hits the max enemy cost. Hitting the completion requirement in a tier unlocks the next tier (except Nirvana) and unlocks the completion chest for that arena.
+The Battle Arena is divided into 11 Tiers. Each tier has a certain Estimated EXP, EXP Modifier, Competition Requirement and Enemy Cost. The enemy cost scales with your level until it hits the max enemy cost. Reaching the completion requirement in a tier unlocks the next tier (except Nirvana) and unlocks the completion chest for that arena.
 
 > [!Note]
-> The Estimated EXP gained from Battle Arena is calculated using your current level and the EXP Modifier of the Tier you are in.
+> The Estimated EXP gained from Battle Arena is calculated based on your current level and the EXP Modifier of your current tier.
 
 <div class="table-container">
 
@@ -26,7 +26,7 @@ The Battle Arena is divided into 11 Tiers. Each tier has a certain Estimated EXP
 | ![icon](https://web.simple-mmo.com/img/icons/battlearena/5.png)           | **Platinum League** |     3.0      |             1 500             |        11 250         |
 | ![icon](https://web.simple-mmo.com/img/icons/battlearena/6.png)           | **Titanium League** |     3.5      |             2 500             |        13 750         |
 | ![icon](https://web.simple-mmo.com/img/icons/S_Fire08.png)                | **7th Circle**      |     4.0      |             3 000             |        16 250         |
-| ![icon](https://web.simple-mmo.com/img/icons/two/32px/RuneStone17_32.png) | **Ragnarock**       |     4.5      |             4 000             |        18 750         |
+| ![icon](https://web.simple-mmo.com/img/icons/two/32px/RuneStone17_32.png) | **Ragnarok**       |     4.5      |             4 000             |        18 750         |
 | ![icon](https://web.simple-mmo.com/img/icons/S_Earth07.png)               | **Mount Olympus**   |     5.0      |             5 000             |        21 250         |
 | ![icon](https://web.simple-mmo.com/img/icons/one/icon174.png)             | **Rapture**         |     5.5      |             6 000             |        27 000         |
 | ![icon](https://web.simple-mmo.com/img/icons/one/icon130.png)             | **Nirvana**         |     6.0      |             7 500             |        34 500         |
