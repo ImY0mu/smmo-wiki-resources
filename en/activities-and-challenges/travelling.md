@@ -70,7 +70,7 @@ The rewards scale with your player level, and are not affected by other playersâ
 On the travel screen, you can click the `Party` button to access the travel party screen. The party screen shows your party (if you are in one), you friends' parties, and public travel parties. If you are not currently in a travel party, you are able to create one for yourself free of charge. The owner of a travel party is indicated by a crown icon beside their name.
 
 ### Editing Your Travel Party
-If you are the owner of a travel party, you are able to choose to make the party private, or public (anybody can join from the party screen). Travel parties are private by default. Y
+If you are the owner of a travel party, you are able to choose to make the party private, or public (anybody can join from the party screen). Travel parties are private by default.
 
 You can choose when inactive players get removed:
 - 5, 10, 20, 30, 60 minutes
@@ -84,7 +84,7 @@ In public parties, a player can enter the party as long as there is less tha 4 p
 
 The party owner is able to:
 - View and accept/reject join requests
-- Send party invites to people in their friends listR
+- Send party invites to people in their friends list
 - Receive (optional) in-game notifications when a player joins their party
 - 
 The party owner cannot join another travel party if they own one, and must delete it to join other parties. Additionally, a party cannot be renamed, so for a different name the party must be deleted and a new one created.
