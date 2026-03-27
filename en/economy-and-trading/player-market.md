@@ -2,36 +2,59 @@
 
 ## When to use the player market
 
-The most common pitfall for most players is using the player market when they shouldn't. First, check the NPC shop at town -> Item Shop and see if they are selling what you are looking for at a lower price. This won't complete your purchase task, but you at least won't over pay for epic tools. Second, Try haggling down the price with the seller and do a direct trade. If an item is being sold for 100,000 gold, the seller will receive 94% of that, or 94,000 gold for it. If you instead trade them 94,000 for the item in a trade, you only pay 99,640. You can save even more if you trust them enough to send the gold directly. It all depends on how much you value your time.
+Before buying from the market, check the Item Shop (Town → Item Shop) to see if the item is available at a lower price. While purchases there won’t count toward market-related tasks, they can help you avoid overpaying, especially for higher-tier tools.
+
+You can also consider trading directly with other players. Since the market applies a 6% tax, sellers only receive 94% of the listed price. For example:
+- A 100,000 gold listing gives the seller 94,000 gold
+- A direct trade for 94,000 gold benefits both sides
+This approach depends on your willingness to negotiate and how much you value convenience versus savings.
 
 > [!WARNING]
-> I didn't call out epic tools for no reason. Their average sell price is above their npc shop price due to players frequently overpaying for them. Even if you like supporting players, your best move will be to buy them from the [Item Shop](/economy-and-trading/item-shop).
+> Some items, especially higher-tier tools—are often listed above their Item Shop price due to demand. Unless you are buying to support other players, it’s worth comparing prices with the [Item Shop](/economy-and-trading/item-shop) before purchasing.
 
-## The cost of doing business
+## Player Market Limitations
 
-Listing items on the market comes with a few limitations and costs. First, you pay a 6% tax on everything. Second, you can only list items in groups of 20, but only remove them one at a time. If you make a typo on the price or find that the market price has dropped since you listed them, there is no quick way to remove them. Not only are you limited to removing them one at a time, but you can only buy them one at a time as well. Keep this in mind and consider reaching out to sellers to buy in bulk. This applies especially for crafting materials. The final key limitation is that the price can only be between 100 - 2,000,000,000 gold.
+There are a few limitations and costs to keep in mind:
+- A 6% tax is applied to all listings
+- Items can only be bulk-listed in groups of up to 20
+- Listings can only be removed one at a time
+- Items can only be purchased one at a time
+- Prices must be between 100 and 2,000,000,000 gold
+  
+If you make a pricing mistake or the market shifts, adjusting listings can take time due to these restrictions. For bulk purchases, such as crafting materials, it may be more efficient to contact sellers directly.
 
 > [!CAUTION]
-> While it is fine to reach out to other players to discuss trades and purchases, do not DM unsolicited advertisements to other players if you are selling items, as this violates rule 1.3.
+> While it is fine to reach out to other players to discuss trades and purchases, do not DM unsolicited advertisements to other players, as this violates rule 1.3.
 
-## How to look for a good deal
 
-You decide to buy something on the player market. There are 3 paths ahead of you. First, you have the purchase task to complete. Second, you are looking to upgrade your gear. Finally, you are looking for the best gear in the game and gold is little to no object.
+### Completing Purchase Tasks
 
-### Completing your purchase task
+If your goal is to complete a purchase task, the simplest option is to sort by price and buy the cheapest available item (often low-cost items like cheese).
 
-Your best bet here is to sort to price and buy the cheapest item on the market, likely cheese for 100 gold. If you are willing to spend more, most collection tasks benefit from sheer quantity of items added and you can look into buying items or collectables.
+If you’re willing to spend more, buying in bulk can also help with collection-related progress.
 
 > [!NOTE]
 > Which items to buy for your collection will be covered more in [Collection](/items/collection).
 
-### Looking for an upgrade
+### Selecting Gear Upgrades
 
-Your best bet is to sort by stats and start hunting for a deal. Generally, unless some poor soul made a typo with their item cost, the items at the top are going to cost at least 1,000,000,000 gold. As you scroll down, you will find that some items that provide more stats cost less than other items. You will also notice that many items provide multiple stats at once, and you will have to decide which stats you want to prioritize. Generally, crit is the most expensive stat, followed by strength, and finally by defense as the cheapest and least important stat. If you are looking for amulets, I recommend you get the strength amulets.
+When upgrading gear, sorting by stats is usually the most effective approach.
+High-end items will often be very expensive, but as you browse, you may find items that offer similar or better stats at lower prices. Comparing listings carefully can help you spot good value.
+
+Many items provide multiple stats, so it’s important to prioritize based on your build. In general:
+- Crit tends to be the most valuable (and expensive)
+- Strength is also highly valued
+- Defense is typically more affordable
+For amulets, strength-focused options are the popular choice.
 
 > [!TIP]
-> You should check out [Stats](/character/stats) to decide what you want to prioritize.
+> You should check out [Stats](/character/stats) to decide what you want to prioritize in your player build.
 
 ### Looking for the best gear
 
-While best in slot items can be found here, it is usually not the case as their prices frequently jump over 2,000,000,000 gold. Generally, if it's the best crit item it won't be on the player market. Even if it is, you are much better off trading for the item due to taxes. The rest will have to be found on the bulletin board, the trade chat, or the discussion boards.
+Top-tier (“best-in-slot”) items are sometimes available on the market, but not always. Prices for these items can exceed the market cap, making direct trades more common.
+
+If you’re aiming for the very best gear, you may have better luck through:
+- Direct trades
+- Trade/Ads chat
+- Bulletin boards
