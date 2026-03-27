@@ -1,7 +1,5 @@
 # Travelling
 
-to do
-
 ## Introduction
 
 Stepping is the main mechanic in SimpleMMO, allowing players to earn gold, experience points, items, collect materials and fight NPCs without the use of energy. The travel screen features the `Step Button`, which the player can click to "take a step" starting a travel text or travel event.
@@ -67,5 +65,52 @@ If you are the owner of a travel party, you are able to choose to make the party
 In public parties, a player can enter the party as long as there is less tha 4 players in it. You can find private parties by clicking on the profile of a person who is in the party, and requesting to join. The party owner is able to view and accept/reject join requests, and send party invites to people in their friends list. The owner receives an (optional) in-game notification when a player joins their party. An owner cannot join another travel party if they own one, and must delete it to join other parties. Additionally, a party cannot be renamed, so for a different name the party must be deleted and a new one created.
 
 ## Locations
+Players are about to step in different locations, which offer different travel text, NPC encounter, and material node rates. For more information on these encounter rates, you may click the `view` button under each location in the locations page. The Horse and Carriage page can be found by clicking `Town`-> `Change Location`, or `Travel` -> `Change Location`.
+
+<div class="table-container">
+  
+| Location                 | Level |
+| ------------------------ | ----- |
+| Simpletopia              | 1     |
+| Holbeck                  | 5     |
+| Davenport                | 10    |
+| Ironforge                | 30    |
+| Everwinter               | 50    |
+| Elise Mountain           | 100   |
+| The Underworld           | 150   |
+| Desert of Eternal Dreams | 200   |
+| Ednia                    | 250   | 
+| Mount Byrior             | 300   | 
+| Baththagnte Creek        | 350   |
+| Saint Xvilhol            | 400   |
+| New Bramp                | 450   |
+| Lake Masmark             | 500   |
+| Eldham                   | 550   |
+| Mount Hawkfels           | 600   |
+| Old Ranhor               | 650   |
+| Venzor                   | 700   |
+| Dragontail               | 800   |
+| Arkhan                   | 900   |
+
+
+</div>
+
+During some events, event specific locations become available. They have their own set of NPCs and will also drop Elite and Common tier Event Material Nodes, and have a level requirement of 1.
+
+<div class="table-container">
+  
+| Event Location          | Event             |
+| ----------------------- | ----------------- |
+| Spooky Graveyard        | Halloween         |
+| North Pole              | Christmas         |
+| The Land of Broken Eggs | Easter            |
+| Planes of Alangar       | Gods of SimpleMMO |
+| Love Island             | Valentines        |
+| Community Island        | Community Event   |
+| Memory Lane             | Memory Lane       |
+| Lunar Blossom Vale      | Lunar New Year    |
+
+
+</div>
 
 [1]: /wiki/character/skills?same_window=true
